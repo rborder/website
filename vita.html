@@ -1,0 +1,131 @@
+---
+layout: default
+permalink: vita
+---
+
+<section>
+  <h1>Vita</h1>
+
+  <a href="./vita.pdf"> Here is a pdf of my CV.</a>
+
+  <br>
+  <br>
+
+  <h2>Publications and Presentations</h2>
+
+<div id="refs" class="references">
+<div id="ref-borderKeller2017COM">
+<p><strong>Border</strong>, R., and M. C. Keller. 2017. “Fundamental Problems with Candidate Gene-by-Environment Interaction Studies. (Accepted).” <em>Journal of Child Psychology and Psychiatry</em>, January.</p>
+</div>
+<div id="ref-border2017RECID">
+<p><strong>Border</strong>, R., R. Corley, W. Brown, J. Hewitt, C. Hopfer, M. Stallings, T. Wall, S. Young, and S. H. Rhee. 2017. “Predictors of Adult Outcomes in Clinically- and Legally-Referred Youth with Conduct Problems. (Under Review),” March.</p>
+</div>
+<div id="ref-nimhMINI2016">
+<p><strong>Border</strong>, R., R. Corley, Rhea S., W. Brown, J. Hewitt, C. Hopfer, M. Stallings, T. Wall, S. Young, and S. H. Rhee. 2016. “Mortality in Youth with Conduct Problems, Their Siblings, and Matched Controls. (Talk).” In. Boulder, CO.</p>
+</div>
+<div id="ref-borderRF2015">
+<p><strong>Border</strong>, R., S. Sawaya, S. Huggett, S. Brown, T. Wall, and M. Stallings. 2015. “Sensitivity of Random Forests Algorithm to Population Stratification in Gwas Data. (Poster).” Poster. In. San Diego, CA.</p>
+</div>
+<div id="ref-johnsonBorder2017POST">
+<p>Johnson, E., R. <strong>Border</strong>, W. Melroy-Greif, de Leeuw C., M. Ehringer, and M. C. Keller. 2016. “No Evidence That the Classic Candidate Genes for Schizophrenia Are More Relevant to Schizophrenia Than Unrelated Sets of Genes. (Poster).” In. Vancouver, BC, Canada.</p>
+</div>
+<div id="ref-johnsonBorder2017">
+<p>———. 2017. “No Evidence That Variants in Historic Candidate Genes Are More Strongly Associated with Schizophrenia Than Variants in Non-Candidate Genes. (Under Review),” February.</p>
+</div>
+<div id="ref-borderLee2014SYMP">
+<p>Lee, S., and R <strong>Border</strong>. 2014. “Anxiety Is Differentially Associated with Affective and Behavioral Facets of Oppositional Defiant Disorder. (Symposium).” In <em>Understanding Heterogeneity Within Youth Antisocial Behavior Through Subtyping Approaches</em>, edited by L. Hyde. San Francisco, CA.</p>
+</div>
+<div id="ref-borderLee2013POST">
+<p>Lee, S., A. Falk, and R <strong>Border</strong>. 2013. “Anxiety Is Differentially Associated with Affective and Behavioral Facets of Oppositional Defiant Disorder. (Poster).” In, edited by L. Hyde. Oakland, CA.</p>
+</div>
+<div id="ref-borderLee2014POST">
+<p>———. 2014. “Association of Child Anxiety and Conduct Problems: Moderation by Parenting Stress. (Poster).” In. San Francisco, CA.</p>
+</div>
+</div>
+
+<!-- embed pdf in frame -->
+<!-- <iframe src="./vita.pdf" width="100%" height="800em"> </iframe> -->
+
+</section>
+
+<!-- <section> -->
+<!-- <h2>Posts</h2>
+
+     {% for post in site.posts %}
+     {% assign nth = forloop.index0 | modulo:2 %}
+     <div class="media t-hackcss-media">
+
+     {% if nth == 0 %}
+     <div class="t-hackcss-media-shift media-left">
+     <img class="t-hackcss-media-image"
+     src="{{ post.image_preview }}" alt="{{ post.title }}"
+     title="{{ post.title }}" />
+     </div>
+     {% endif %}
+
+     <div class="media-body">
+     <div class="media-heading">
+     <span>{{ post.date | date_to_string }} &raquo;
+     {% if post.external_url %}
+     <a href="{{ post.external_url }}" target="_blank" title="{{ project.name }}">
+     {{ post.title }}
+     </a>
+     {% else %}
+     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ project.name }}">
+     {{ post.title }}
+     </a>
+     {% endif %}
+     </span>
+     </div>
+     <div class="media-content">
+     {{ post.short_description }}
+     </div>
+     </div>
+
+     {% if nth == 1 %}
+     <div class="t-hackcss-media-shift media-right">
+     <img class="t-hackcss-media-image"
+     src="{{ post.image_preview }}" alt="{{ post.title }}"
+     title="{{ post.title }}" />
+     </div>
+     {% endif %}
+     </div>
+     {% endfor %}
+     </section>
+
+     <section>
+
+     <h2>Cards</h2>
+
+     <div class="grid t-hackcss-cards">
+
+     {% for project in site.projects %}
+
+     <div class="cell -6of12 t-hackcss-cards-cell">
+     <div class="card">
+     <header class="card-header">{{ project.name }}</header>
+     <div class="card-content">
+     <div class="inner">
+
+     {% if project.image %}
+     <img src="{{ project.image }}" class="t-hackcss-cards-image"
+     alt="{{ project.name }}"
+     title="{{ project.name }}" />
+     {% endif %}
+
+     <p class="t-hackcss-cards-text">{{ project.description }}</p>
+     <p class="t-hackcss-cards-link">
+     <a href="{{ project.link }}" title="{{ project.name }}" target="_blank">
+     {{ project.name }}
+     </a>
+     </p>
+     </div>
+     </div>
+     </div>
+     </div>
+
+     {% endfor %}
+
+     </div>
+     </section>
+   -->
