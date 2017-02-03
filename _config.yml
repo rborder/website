@@ -4,17 +4,17 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-
+          
 # Site settings
 title: Richard Border
-description: "Predoctoral Fellow <br>
+description: "P redoctoral Fellow <br>
 Institute for Behavioral Genetics <br>
 University of Colorado Boulder"
 #repository: https://github.com/rborder/website
 baseurl: ''  #http://localhost
 #url:# https://localhost  # the base hostname & protocol for your site
 
-# Build settings
+# Build settings 
 markdown: kramdown
 
 # Sass settings
@@ -33,8 +33,8 @@ navigation:
     url: /index
   - text: Vita
     url: /vita
-  - text: Examples
-    url: /examples
+  - text: Teaching
+    url: /teaching
 
 # projects:
 #   - name: git-secret
