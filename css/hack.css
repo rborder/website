@@ -156,6 +156,10 @@ a:hover{
 .hack blockquote,.hack code,.hack footer,.hack h1,.hack h2,.hack h3,.hack h4,.hack h5,.hack h6,.hack header,.hack li,.hack ol,.hack p,.hack section,.hack ul{
     float:none;margin:0;padding:0
 }
+.hack footer{
+    font-family: monospace
+}
+
 
 .hack blockquote,.hack h1,.hack ol,.hack p,.hack ul{
     margin-top:20px;margin-bottom:20px

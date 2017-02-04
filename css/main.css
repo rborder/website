@@ -22,11 +22,11 @@ body .t-hackcss-footer{
 .t-hackcss-icon{
     display:inline-block;
     vertical-align:center;
-    width:15px;
-    height:15px
+    width:12px;
+    height:12px
 }
 .t-hackcss-icon>svg{
-    width:15px
+    width:12px
 }
 .t-hackcss-media{
     margin-bottom:1.25rem
