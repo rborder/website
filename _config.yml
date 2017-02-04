@@ -44,9 +44,9 @@ projects:
   - name: org-mode
     description: An Emacs major mode for note-taking and planning.
     link: http://orgmode.org/
-    image: http://orgmode.org/img/org-mode-unicorn-logo.png
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Org-mode-unicorn.svg/2000px-Org-mode-unicorn.svg.png
   - name: LyX
-    image: https://openclipart.org/image/2400px/svg_to_png/25571/Lyx.png
+    image: https://chocolatey.org/content/packageimages/lyx.2.2.0.3.svg
     description: An open-source what-you-see-is-what-you-mean document processor.
     link: https://www.lyx.org
   - name: Fedora Workstation
