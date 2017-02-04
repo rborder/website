@@ -3,13 +3,13 @@
 
 
   <h2 class="footer-heading">{{ site.title }}</h2>
-  <div class="grid t-hackcss-sm-reversed-grid">
-    <div class="cell -4of12">
+  <!-- <div class="grid t-hackcss-sm-reversed-grid"> -->
+  <!-- <div class="cell -4of12"> -->
        {{ site.description }}
-    </div>
-    <div class="cell -5of12">
-    </div>
-    <div class="cell -12of12" style="text-align: right">
+  <!-- </div> -->
+  <!-- <div class="cell -5of12"> -->
+  <!-- </div> -->
+  <!-- <div class="cell -12of12" style="text-align: right"> -->
           {% for social in site.social %}
           {% assign template = social.service|prepend:"icon-"|append:".html" %}
           <span class="t-hackcss-social">
@@ -17,12 +17,12 @@
             <a href="{{ social.link }}">{{ social.username }}</a>
             
           </span>
-            <br>
+          <!-- <br> -->
         {% endfor %}
-    </div>
-    </div>
+          <!-- </div> -->
+          <!-- </div> -->
 
 
-    </div>
+          <!-- </div> -->
 
 </footer>
