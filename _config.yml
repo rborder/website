@@ -40,42 +40,42 @@ projects:
   - name: spacemacs 
     description: A community-driven Emacs distribution.
     link: http://spacemacs.org/
-    image: http://spacemacs.org/img/logo.svg
+    image: /images/tools/spacemacs.svg
   - name: org-mode
     description: An Emacs major mode for note-taking and planning.
     link: http://orgmode.org/
-    image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Org-mode-unicorn.svg/2000px-Org-mode-unicorn.svg.png
+    image: /images/tools/orgmode.png
   - name: LyX
-    image: https://chocolatey.org/content/packageimages/lyx.2.2.0.3.svg
+    image: /images/tools/lyx.svg
     description: An open-source what-you-see-is-what-you-mean document processor.
     link: https://www.lyx.org
   - name: Fedora Workstation
     description: A community-driven Linux distribution based on RPM binaries.
-    image: https://getfedora.org/static/images/logo-color-workstation.png
+    image: /images/tools/fedoraws.png
     link: https://getfedora.org/en/workstation/
   - name: Julia
     description: A high-level, high-performance scientific programming language.
-    image: https://camo.githubusercontent.com/e1ae5c7f6fe275a50134d5889a68f0acdd09ada8/687474703a2f2f6a756c69616c616e672e6f72672f696d616765732f6c6f676f5f68697265732e706e67
+    image: /images/tools/julia.png
     link: http://julialang.org/
   - name: The R Project
     description: A free software environment for statistical computing and graphics. 
-    image: https://www.r-project.org/Rlogo.png
+    image: /images/tools/r.png 
     link: https://www.r-project.org/
   - name: Anki
     description: Powerful, intelligent flash cards spaced repetitions.
-    image: https://static1.squarespace.com/static/55295a2be4b031351c16468a/t/55745809e4b0888fee5da08d/1433688076531/
+    image: /images/tools/anki.png
     link: https://apps.ankiweb.net
   - name: Friendly Interactive SHell
     description: Finally, a command line shell for the 90s.
-    image: http://ridiculousfish.com/shell/images/fishfish_logo.png
+    image: /images/tools/fish.png 
     link: https://fishshell.com
   - name: Zotero
     description: Open-source reference management package.
-    image: https://www.zotero.org/support/_media/logo/zotero_512x512x32.png
+    image: /images/tools/zotero.png 
     link: https://www.zotero.org
   - name: GNU Parallel
     description: A shell tool for executing jobs in parallel.
-    image: http://www.gnu.org/software/parallel/logo-gray+black300.png
+    image: /images/tools/gnupar.png 
     link: https://www.gnu.org/software/parallel/
 
 social:
