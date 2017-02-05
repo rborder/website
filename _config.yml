@@ -73,8 +73,10 @@ projects:
     description: Open-source reference management
     image: https://www.zotero.org/support/_media/logo/zotero_512x512x32.png
     link: https://www.zotero.org
-
-
+  - name: GNU Parallel
+    description: A shell tool for executing jobs in parallel.
+    image: http://www.gnu.org/software/parallel/logo-gray+black300.png
+    link: https://www.gnu.org/software/parallel/
 
 social:
   - service: mail
