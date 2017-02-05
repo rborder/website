@@ -53,6 +53,23 @@ projects:
     description: A community-driven Linux distribution based on RPM binaries.
     image: https://getfedora.org/static/images/logo-color-workstation.png
     link: https://getfedora.org/en/workstation/
+  - name: Julia
+    description: A high-level, high-performance scientific programming language.
+    image: https://camo.githubusercontent.com/e1ae5c7f6fe275a50134d5889a68f0acdd09ada8/687474703a2f2f6a756c69616c616e672e6f72672f696d616765732f6c6f676f5f68697265732e706e67
+    link: http://julialang.org/
+  - name: The R Project
+    description: A free software environment for statistical computing and graphics. 
+    image: https://www.r-project.org/Rlogo.png
+    link: https://www.r-project.org/
+  - name: Anki
+    description: Powerful, intelligent flash cards.
+    image: https://www.r-project.org/Rlogo.png
+    link: https://static1.squarespace.com/static/55295a2be4b031351c16468a/t/55745809e4b0888fee5da08d/1433688076531/
+  - name: Friendly Interactive SHell
+    description: Finally, a command line shell for the 90s.
+    image: http://ridiculousfish.com/shell/images/fishfish_logo.png
+    link: https://fishshell.com
+
 
 social:
   - service: mail
