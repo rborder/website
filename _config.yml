@@ -47,24 +47,24 @@ projects:
     image: /images/tools/orgmode.png
   - name: LyX
     image: /images/tools/lyx.svg
-    description: An open-source what-you-see-is-what-you-mean document processor.
+    description: Just say no to MS Word.
     link: https://www.lyx.org
-  - name: Fedora Workstation
-    description: A community-driven Linux distribution based on RPM binaries.
-    image: /images/tools/fedoraws.png
-    link: https://getfedora.org/en/workstation/
-  - name: Julia
-    description: A high-level, high-performance scientific programming language.
-    image: /images/tools/julia.png
-    link: http://julialang.org/
-  - name: The R Project
-    description: A free software environment for statistical computing and graphics. 
-    image: /images/tools/r.png 
-    link: https://www.r-project.org/
-  - name: Anki
-    description: Powerful, intelligent flash cards spaced repetitions.
-    image: /images/tools/anki.png
-    link: https://apps.ankiweb.net
+  - name: i3 window manager
+    description: A tiling window manager for GNU-Linux.
+    image: /images/tools/i3wm.png
+    link: https://i3wm.org
+  # - name: Julia
+  #   description: A high-level, high-performance scientific programming language.
+  #   image: /images/tools/julia.png
+  #   link: http://julialang.org/
+  # - name: The R Project
+  #   description: A free software environment for statistical computing and graphics. 
+  #   image: /images/tools/r.png 
+  #   link: https://www.r-project.org/
+  # - name: Anki
+  #   description: Powerful, intelligent flash cards spaced repetitions.
+  #   image: /images/tools/anki.png
+  #   link: https://apps.ankiweb.net
   - name: Friendly Interactive SHell
     description: Finally, a command line shell for the 90s.
     image: /images/tools/fish.png 
@@ -73,10 +73,10 @@ projects:
     description: Open-source reference management package.
     image: /images/tools/zotero.png 
     link: https://www.zotero.org
-  - name: GNU Parallel
-    description: A shell tool for executing jobs in parallel.
-    image: /images/tools/gnupar.png 
-    link: https://www.gnu.org/software/parallel/
+  # - name: GNU Parallel
+  #   description: A shell tool for executing jobs in parallel.
+  #   image: /images/tools/gnupar.png 
+  #   link: https://www.gnu.org/software/parallel/
 
 social:
   - service: mail
