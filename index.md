@@ -12,9 +12,13 @@ My name is Richard. I'm a graduate student at the University of Colorado Boulder
 
 
 I'm interested in:
- - statistics
- - statistical genetics
- - measurement 
- - metascience
+
+- statistics
+
+- statistical genetics
+
+- measurement 
+
+- metascience
  
  I also like rock climbing and my dog Buckminster. Dogs > humans. Linux user. Cynic.
