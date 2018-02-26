@@ -8,8 +8,8 @@ permalink: index
 
 ## Introductions 
 
-My name is Richard. I'm a graduate student at the University of Colorado Boulder. I'm pursuing a PhD in behavioral genetics and an MS in applied math. 
+My name is Richard. I'm a PhD candidate in behavioral genetics and an MS student in applied math at the University of Colorado Boulder. 
 
 I'm interested in statistics, statistical genetics, measurement, and metascience.
 
-I also like rock climbing and my dog Buckminster. Dogs > humans. Linux user. Cynic.
+I also like rock climbing and my dog Buckminster. Dogs > humans. Linux user. Cynical idealist.
