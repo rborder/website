@@ -11880,9 +11880,7 @@ div#notebook {
 <div class="prompt input_prompt">In&nbsp;[94]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-r"><pre><span></span><span class="kn">library</span><span class="p">(</span>lattice<span class="p">)</span>
-
-mw <span class="o">&lt;-</span> read.csv<span class="p">(</span><span class="s">"~/Downloads/nalexoneMidwest.csv"</span><span class="p">,</span> header <span class="o">=</span> <span class="bp">F</span><span class="p">)</span>
+<div class=" highlight hl-r"><pre><span></span>mw <span class="o">&lt;-</span> read.csv<span class="p">(</span><span class="s">"~/Downloads/nalexoneMidwest.csv"</span><span class="p">,</span> header <span class="o">=</span> <span class="bp">F</span><span class="p">)</span>
 <span class="kp">names</span><span class="p">(</span>mw<span class="p">)</span> <span class="o">&lt;-</span> <span class="kt">c</span><span class="p">(</span><span class="s">"months"</span><span class="p">,</span> <span class="s">"residuals"</span><span class="p">)</span>
 cutpoints <span class="o">&lt;-</span> <span class="kp">as.data.frame</span><span class="p">(</span><span class="kp">t</span><span class="p">(</span><span class="kp">sapply</span><span class="p">(</span>mw<span class="o">$</span><span class="kp">months</span><span class="p">,</span> <span class="kr">function</span><span class="p">(</span>x<span class="p">)</span> x <span class="o">&gt;</span> <span class="kp">seq</span><span class="p">(</span><span class="m">-21</span><span class="p">,</span> <span class="m">9</span><span class="p">,</span> by <span class="o">=</span> <span class="m">3</span><span class="p">))))</span>
 <span class="kp">names</span><span class="p">(</span>cutpoints<span class="p">)</span> <span class="o">&lt;-</span> <span class="p">(</span><span class="kp">seq</span><span class="p">(</span><span class="m">-21</span><span class="p">,</span> <span class="m">9</span><span class="p">,</span> by <span class="o">=</span> <span class="m">3</span><span class="p">))</span>   
