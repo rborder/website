@@ -15,8 +15,8 @@ I'm interested in statistics, statistical genetics, measurement, and metascience
 I also like rock climbing and my dog Buckminster. Dogs >> humans. Linux user. Cynical idealist.
 
 
----
-```
+
+<pre>
  ______________________________________
 / You are a fluke of the universe; you \
 \ have no right to be here.            /
@@ -47,5 +47,4 @@ I also like rock climbing and my dog Buckminster. Dogs >> humans. Linux user. Cy
                                  |  |                      \  \
                                  |  |                      |   |
                                  +--+                       ---+
-```
-
+</pre>
