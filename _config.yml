@@ -31,10 +31,10 @@ navigation:
     url: /index
   - text: Vita
     url: /vita
-  - text: Teaching
-    url: /teaching
-  - text: Tools
-    url: /tools
+  # - text: Teaching
+  #   url: /teaching
+  # - text: Tools
+  #   url: /tools
 
 projects:
   - name: spacemacs 
@@ -82,12 +82,15 @@ social:
   - service: mail
     username: richard.border@colorado.edu
     link: mailto:richard.border@colorado.edu
-  - service: stackexchange
-    username: buckminster
-    link: http://stackexchange.com/users/5231062/buckminster
-  - service: github
-    username: rborder
-    link: https://github.com/rborder
+  - service: orcid
+    username: 0000-0002-6293-2968
+    link: https://orcid.org/0000-0002-6293-2968
+  - service: scholar
+    username: fQhvPM8AAAAJ
+    link: https://scholar.google.com/citations?user=fQhvPM8AAAAJ
+  # - service: github
+    # username: rborder
+    # link: https://github.com/rborder
   # - service: twitter
     # username: sobolevn
     # link: https://twitter.com/sobolevn
