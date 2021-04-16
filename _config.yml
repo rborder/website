@@ -24,7 +24,7 @@ theme_mode: 'markdown' # markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: Richard Border
-# email: richard.border@colorado.edu
+# email: border.richard@gmail.com
 
 navigation:
   - text: Home
@@ -80,8 +80,8 @@ projects:
 
 social:
   - service: mail
-    username: richard.border@colorado.edu
-    link: mailto:richard.border@colorado.edu
+    username: border.richard@gmail.com
+    link: mailto:border.richard@gmail.com
   - service: orcid
     username: 0000-0002-6293-2968
     link: https://orcid.org/0000-0002-6293-2968
