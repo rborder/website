@@ -96,5 +96,5 @@ social:
     # link: https://twitter.com/sobolevn
 
 # Plugins
-gems:
+plugins:
   - jekyll-seo-tag
