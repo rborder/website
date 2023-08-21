@@ -1,4 +1,3 @@
-theme = 'researcher'
 baseURL = 'http://richardborder.com/'
 languageCode = 'en-us'
 title = 'Richard Border'
