@@ -1,0 +1,37 @@
+baseURL = 'http://richardborder.com/'
+languageCode = 'en-us'
+title = 'Richard Border'
+theme = 'researcher'
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  author = "Richard Border"
+  description = "Richard Border's vita"
+  # favicon = "favicon.ico"  # path to a .ico to use as favicon
+  # logo = ""  # url or path to a logo to put in the header
+  # [params.footer]
+    # text = "By Olivier Roques"
+    # url = "https://github.com/ojroques/hugo-researcher"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    fontSize = "14pt"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:border.richard@gmail.com.com"
+  [[params.socialIcons]]
+    icon = "ai ai-google-scholar"
+    title = "Google scholar"
+    url = "https://scholar.google.com/citations?user=fQhvPM8AAAAJ"
+  [[params.socialIcons]]
+    icon = "fa-brands fa-github"
+    title = "github"
+    url = "https://github.com/rborder"
+  [[params.socialIcons]]
+    icon = "ai ai-orcid"
+    title = "Orcid ID"
+    url = "http://www.orcid.org/0000-0002-6293-2968"
