@@ -9,8 +9,10 @@ disableKinds = ["taxonomy", "term"]
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "Theme by Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = ""
+    #text = "Theme by Olivier Roques"
+    url = ""
+    #url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     # fontFamily = "Open Sans"
     fontFamily = "Inconsolata"
