@@ -26,7 +26,7 @@ disableKinds = ["taxonomy", "term"]
   [[params.socialIcons]]
     icon = "ai ai-google-scholar"
     title = "Google scholar"
-    url = "https://scholar.google.com/citations?user=fQhvPM8AAAAJ"
+    url = "https://scholar.google.com/citations?user=z11Dt0UAAAAJ"
   [[params.socialIcons]]
     icon = "fa-brands fa-github"
     title = "github"
