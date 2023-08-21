@@ -15,37 +15,37 @@ I study problems at the intersections of human genetics, statistical inference, 
 My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department. I also work with the Price Lab at the Harvard T. H. Chan School of Public Health Department of Epidemiology, which I joined as a visiting scientist in 2021.
 
 ## Preprints
-* Dahl, A., ..., **Border, R.**, ..., Cai, N.. “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of MDD.” [doi.org/10.1186/s12859-023-05442-6](https://doi.org/10.1186/s12859-023-05442-6)
+* Dahl, A., ..., **Border, R.**, ..., Cai, N.. “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of MDD.” [*bioRꭓiv*](https://doi.org/10.1101/2022.08.15.503980).
 
 ## Peer-reviewed publications
 
-* **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” *BMC Bioinformatics.* [doi.org/10.1186/s12859-023-05442-6](https://doi.org/10.1186/s12859-023-05442-6)
+* **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-023-05442-6).
 
-* **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” *Science*. [doi.org/10.1126/science.abo2059](https://doi.org/10.1126/science.abo2059)
+* **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” [*Science*](https://doi.org/10.1126/science.abo2059).
 
-* Jami, J.S., ..., **Border, R.**, ..., Middeldorp, C.M. (2022). “Genome-wide association meta-analysis of childhood and adolescent internalising symptoms.” *Journal of the American Academy of Child and Adolescent Psychiatry.* [doi.org/10.1016/j.jaac.2021.11.035 ](https://doi.org/10.1016/j.jaac.2021.11.035)
+* Jami, J.S., ..., **Border, R.**, ..., Middeldorp, C.M. (2022). “Genome-wide association meta-analysis of childhood and adolescent internalising symptoms.” [*Journal of the American Academy of Child and Adolescent Psychiatry*](https://doi.org/10.1016/j.jaac.2021.11.035).
 
-* **Border, R.**, O’Rourke, S., de Candia, T., Goddard, M. E., Visscher, P. M., Yengo, L., Jones, M., Keller, M. C. (2022). “Assortative mating biases marker-based heritability estimates.” *Nature Communications.* [doi.org/10.1038/s41467-022-28294-9](https://doi.org/10.1038/s41467-022-28294-9)
+* **Border, R.**, O’Rourke, S., de Candia, T., Goddard, M. E., Visscher, P. M., Yengo, L., Jones, M., Keller, M. C. (2022). “Assortative mating biases marker-based heritability estimates.” [*Nature Communications*](https://doi.org/10.1038/s41467-022-28294-9).
 
-* Ip, H.F., ..., **Border, R.**, ..., Boomsma, D. (2021). “Genetic association study of childhood aggression across raters, instruments and age.” *Translational Psychiatry.* [doi.org/10.1038/s41398-021-01480-x](https://doi.org/10.1038/s41398-021-01480-x)
+* Ip, H.F., ..., **Border, R.**, ..., Boomsma, D. (2021). “Genetic association study of childhood aggression across raters, instruments and age.” [*Translational Psychiatry*](https://doi.org/10.1038/s41398-021-01480-x).
 
-* Adjangba, C., **Border, R.**, Romero, Villela P.N., Ehringer, M.A., Evans, L.M. (2021). Little evidence of modified genetic effect of rs16969968 on heavy smoking based on age of onset of smoking. *Nicotine and Tobacco Research.* [doi.org/10.1093/ntr/ntaa229](https://doi.org/10.1093/ntr/ntaa229)
+* Adjangba, C., **Border, R.**, Romero, Villela P.N., Ehringer, M.A., Evans, L.M. (2021). Little evidence of modified genetic effect of rs16969968 on heavy smoking based on age of onset of smoking. [*Nicotine and Tobacco Research*](https://doi.org/10.1093/ntr/ntaa229).
 
-* **Border, R.** and Becker, S. (2019). Stochastic Lanczos estimation of genomic variance components for linear mixed-effects models. *BMC Bioinformatics.* [doi.org/10.1186/s12859-019-2978-z](https://doi.org/10.1186/s12859-019-2978-z)
+* **Border, R.** and Becker, S. (2019). Stochastic Lanczos estimation of genomic variance components for linear mixed-effects models. [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-019-2978-z).
 
-* **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2019). No support for historic candidate gene or candidate gene-by-interaction hypotheses for major depression across multiple large samples. *American Journal of Psychiatry.* [doi.org/10.1176/appi.ajp.2018.18070881](https://doi.org/10.1176/appi.ajp.2018.18070881)
+* **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2019). No support for historic candidate gene or candidate gene-by-interaction hypotheses for major depression across multiple large samples. [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2018.18070881).
 
-* **Border, R.**, Johnson, E.C., Evans, L.M., Keller, M.C. (2019). Measurement error cannot account for failed replications of historic candidate gene-by-environment hypotheses: response to Vrshek-Schallhorn et al.. *American Journal of Psychiatry.* [doi.org/10.1176/appi.ajp.2019.19040374r](https://doi.org/10.1176/appi.ajp.2019.19040374r)
+* **Border, R.**, Johnson, E.C., Evans, L.M., Keller, M.C. (2019). Measurement error cannot account for failed replications of historic candidate gene-by-environment hypotheses: response to Vrshek-Schallhorn et al.. [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2019.19040374r).
 
-* **Border, R.**, Smolen, A., Corley, R., Stallings, M., Brown, S., Conger, R., Derringer, J., Donnellan, B., Haberstick, B., Hewitt, J., Hopfer, C., Krauter, K., McQueen, M., Wall, T., Keller, M., Evans, L. (2019). Imputation of behavioral candidate gene repeat polymorphisms in 486,551 publicly-available UK Biobank individuals. *European Journal of Human Genetics.* [doi.org/10.1038/s41431-019-0349-x](https://doi.org/10.1038/s41431-019-0349-x)
+* **Border, R.**, Smolen, A., Corley, R., Stallings, M., Brown, S., Conger, R., Derringer, J., Donnellan, B., Haberstick, B., Hewitt, J., Hopfer, C., Krauter, K., McQueen, M., Wall, T., Keller, M., Evans, L. (2019). Imputation of behavioral candidate gene repeat polymorphisms in 486,551 publicly-available UK Biobank individuals. [*European Journal of Human Genetics*](https://doi.org/10.1038/s41431-019-0349-x).
 
-* **Border, R.**, Corley, R.C., Brown, S.A., Hewitt, J.K., Hopfer, C.J., Williams, S.K., Rhea, S., Shriver, C.L., Stallings, M.C., Wall, T.L., Woodward, K.E., Rhee, S.H. (2018). “Independent predictors of mortality in adolescents ascertained for conduct disorder and substance use problems, their siblings, and community controls.” *Addiction.* [doi.org/10.1111/add.14366](https://doi.org/10.1111/add.14366)
+* **Border, R.**, Corley, R.C., Brown, S.A., Hewitt, J.K., Hopfer, C.J., Williams, S.K., Rhea, S., Shriver, C.L., Stallings, M.C., Wall, T.L., Woodward, K.E., Rhee, S.H. (2018). “Independent predictors of mortality in adolescents ascertained for conduct disorder and substance use problems, their siblings, and community controls.” [*Addiction*](https://doi.org/10.1111/add.14366).
 
-* **Border, R.**, Corley, R.C., Brown, S.A., Hewitt, J.K., Hopfer, C.J., Stallings, M.C., Wall, T.L., Young, S.E., Rhee, S.H. (2018). “Predictors of adult outcomes in clinically- and legally-referred youth with antisocial behavior.” *PLOS ONE.* [doi.org/10.1371/journal.pone.0206442](https://doi.org/10.1371/journal.pone.0206442)
+* **Border, R.**, Corley, R.C., Brown, S.A., Hewitt, J.K., Hopfer, C.J., Stallings, M.C., Wall, T.L., Young, S.E., Rhee, S.H. (2018). “Predictors of adult outcomes in clinically- and legally-referred youth with antisocial behavior.” [*PLOS ONE*](https://doi.org/10.1371/journal.pone.0206442).
 
-* Johnson, E.C., **Border, R.**, Melroy-Greif, W.E., de Leeuw, C., Ehringer, M.A., Keller, M.C. (2017). “No evidence that schizophrenia candidate genes are more associated with schizophrenia than non-candidate genes.” *Biological Psychiatry.* [doi.org/10.1016/j.biopsych.2017.06.033](http://dx.doi.org/10.1016/j.biopsych.2017.06.033)
+* Johnson, E.C., **Border, R.**, Melroy-Greif, W.E., de Leeuw, C., Ehringer, M.A., Keller, M.C. (2017). “No evidence that schizophrenia candidate genes are more associated with schizophrenia than non-candidate genes.” [*Biological Psychiatry*](http://dx.doi.org/10.1016/j.biopsych.2017.06.033).
 
-* **Border, R.** and Keller, M.C. (2017). “Fundamental problems with candidate gene-by-environment interaction studies.” *Journal of Child Psychology and Psychiatry.* [doi.org/10.1111/jcpp.12669](http://dx.doi.org/10.1111/jcpp.12669)
+* **Border, R.** and Keller, M.C. (2017). “Fundamental problems with candidate gene-by-environment interaction studies.” [*Journal of Child Psychology and Psychiatry*](http://dx.doi.org/10.1111/jcpp.12669).
 
 
 ## Presentations
