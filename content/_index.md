@@ -2,6 +2,8 @@
 title = "About"
 +++
 
+{{< figure class="avatar" src="/head_sq.jpg" alt="avatar">}}
+
 I study problems at the intersections of human genetics, statistical inference, quantitative psychology, and applied mathematics. My primary research interests include:
 
 1. Polygenic estimators under nonrandom mating and other forms of population structure.
@@ -98,20 +100,14 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 
 ## Education
-Doctor of Philosophy 
-: ***Behavioral, Psychiatric, and Statistical Genetics.*** 
- Advised by Matthew C. Keller.
- *Department of Psychology and Neuroscience, University of Colorado Boulder* (2019).
+* **Doctor of Philosophy** (2019). ***Behavioral, Psychiatric, and Statistical Genetics.***
+ Advised by Matthew C. Keller. *Department of Psychology and Neuroscience, University of Colorado Boulder*.
 
-Master of Science
-: ***Applied Mathematics.*** Advised by Stephen Becker. *Department of Applied Mathematics, University of Colorado Boulder*  (2018).
+* **Master of Science** (2018). ***Applied Mathematics.*** Advised by Stephen Becker. *Department of Applied Mathematics, University of Colorado Boulder*.
+* **Master of Arts** (2018). ***Behavioral, Psychiatric, and Statistical Genetics.*** Advised by Soo Hyun Rhee. *Department of Psychology and Neuroscience, University of Colorado Boulder* (2018).
 
-Master of Arts
-: ***Behavioral, Psychiatric, and Statistical Genetics.*** Advised by Soo Hyun Rhee. *Department of Psychology and Neuroscience, University of Colorado Boulder* (2018).
-
-Bachelor of Arts
-: ***Japanese Language and Literature.***
-Advised by Terry Kawashima. *Department of East Asian Studies, Wesleyan University* (2011).
+* **Bachelor of Arts** (2011). ***Japanese Language and Literature.***
+Advised by Terry Kawashima. *Department of East Asian Studies, Wesleyan University*.
 
 
 ## Dissertation and master's thesis
@@ -152,7 +148,7 @@ I have served as a special topic guest editor for *Frontiers in Genetics*. Addit
 
 * **Mathematical Statistics** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).
 
-* **Statistical Methods** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).
+* **Statistical Methods** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).1
 
 * **Statistical Programming with R** (Graduate) *Teaching Assistant, Department of Psychology and Neuroscience* (2016).
 
