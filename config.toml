@@ -8,9 +8,9 @@ disableKinds = ["taxonomy", "term"]
   description = "Richard Border's vita"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
-  # [params.footer]
-    # text = "By Olivier Roques"
-    # url = "https://github.com/ojroques/hugo-researcher"
+  [params.footer]
+    text = "Theme by Olivier Roques"
+    url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     # fontFamily = "Open Sans"
     fontFamily = "Inconsolata"
@@ -36,8 +36,6 @@ disableKinds = ["taxonomy", "term"]
     icon = "ai ai-orcid"
     title = "Orcid ID"
     url = "http://www.orcid.org/0000-0002-6293-2968"
-
-
 
 
 
