@@ -60,7 +60,7 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 * **Border, R.**, Becker, S. (2019). “Randomized algorithms for genomic variance components estimation in mixed models”. Poster presented at the 2019 *International Workshop on Statistical Genetic Methods for Human Complex Traits*, Boulder, CO.
 
-* **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. 2018). “Quantitative reconcilliation of GWAS and candidate gene findings: measurement error, nonlinearity, and artifactual results.” Paper presentation accepted for the 48th meeting of the *Behavior Genetics Association* in Boston, MA. (Talk delivered by M.C. Keller due to illness).
+* **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2018). “Quantitative reconcilliation of GWAS and candidate gene findings: measurement error, nonlinearity, and artifactual results.” Paper presentation accepted for the 48th meeting of the *Behavior Genetics Association* in Boston, MA. (Talk delivered by M.C. Keller due to illness).
 
 * **Border, R.**, Johnson, E.C., Berley, N., Medland, S.E., Sullvan, P.F., Keller, M.C. (2018). “Examining the relevance of canonical candidate genes for major depression”. Poster accepted for the 48th meeting of the *Behavior Genetics Association* in Boston, MA.
 
