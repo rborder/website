@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Richard Border"
 +++
 
 {{< figure class="avatar" src="/head_sq.jpg" alt="avatar">}}
@@ -15,10 +15,11 @@ I study problems at the intersections of human genetics, statistical inference, 
 My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department. I also work with the Price Lab at the Harvard T. H. Chan School of Public Health Department of Epidemiology, which I joined as a visiting scientist in 2021.
 
 ## Preprints
-
-* **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” *BMC Bioinformatics.* [10.1186/s12859-023-05442-6](https://doi.org/10.1186/s12859-023-05442-6)
+* Dahl, A., ..., **Border, R.**, ..., Cai, N.. “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of MDD.” [doi.org/10.1186/s12859-023-05442-6](https://doi.org/10.1186/s12859-023-05442-6)
 
 ## Peer-reviewed publications
+
+* **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” *BMC Bioinformatics.* [doi.org/10.1186/s12859-023-05442-6](https://doi.org/10.1186/s12859-023-05442-6)
 
 * **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” *Science* [doi.org/10.1126/science.abo2059](https://doi.org/10.1126/science.abo2059)
 
