@@ -21,7 +21,7 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 * **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” *BMC Bioinformatics.* [doi.org/10.1186/s12859-023-05442-6](https://doi.org/10.1186/s12859-023-05442-6)
 
-* **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” *Science* [doi.org/10.1126/science.abo2059](https://doi.org/10.1126/science.abo2059)
+* **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” *Science.* [doi.org/10.1126/science.abo2059](https://doi.org/10.1126/science.abo2059)
 
 * Jami, J.S., ..., **Border, R.**, ..., Middeldorp, C.M. (2022). “Genome-wide association meta-analysis of childhood and adolescent internalising symptoms.” *Journal of the American Academy of Child and Adolescent Psychiatry.* [doi.org/10.1016/j.jaac.2021.11.035 ](https://doi.org/10.1016/j.jaac.2021.11.035)
 
