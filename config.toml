@@ -5,7 +5,7 @@ disableKinds = ["taxonomy", "term"]
 [params]
   author = "Richard Border"
   description = "Richard Border's vita"
-  favicon = "/favicon.ico"  # path to a .ico to use as favicon
+  favicon = "/favicon2.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = ""
