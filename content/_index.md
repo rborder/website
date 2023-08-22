@@ -85,11 +85,11 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 * Charles J. Epstein Research Semifinalist Award. *American Society for Human Genetics* (2021).
 
-* National Institutes of Health Postdoctoral Trainee     T32NS048004. *Semel Institute for Neuroscience and Human Behavior, University of California, Los Angeles* (2021).
+* National Institutes of Health Postdoctoral Trainee (*T32NS048004*). *Semel Institute for Neuroscience and Human Behavior, University of California, Los Angeles* (2021).
 
 * Dosier Muenzinger Award for Outstanding Contribution to Basic Research. *Department of Psychology and Neuroscience, University of Colorado Boulder* (2020).
 
-* National Institutes of Health Predoctoral Trainee     T32MH016880Selected by faculty training committee thrice consecutively (maximum number of times awarded to any graduate student). *Institute for Behavioral Genetics, University of Colorado Boulder* (2016-2019).
+* National Institutes of Health Predoctoral Trainee (*T32MH016880*). Selected by faculty training committee thrice consecutively (maximum number of times awarded to any graduate student). *Institute for Behavioral Genetics, University of Colorado Boulder* (2016-2019).
 
 * Behavior Genetics Association Travel Award. *Behavior Genetics Association* (2018).
 
