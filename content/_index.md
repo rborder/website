@@ -29,15 +29,15 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 * Ip, H.F., ..., **Border, R.**, ..., Boomsma, D. (2021). “Genetic association study of childhood aggression across raters, instruments and age.” [*Translational Psychiatry*](https://doi.org/10.1038/s41398-021-01480-x).
 
-* Adjangba, C., **Border, R.**, Romero, Villela P.N., Ehringer, M.A., Evans, L.M. (2021). Little evidence of modified genetic effect of rs16969968 on heavy smoking based on age of onset of smoking. [*Nicotine and Tobacco Research*](https://doi.org/10.1093/ntr/ntaa229).
+* Adjangba, C., **Border, R.**, Romero, Villela P.N., Ehringer, M.A., Evans, L.M. (2021). “Little evidence of modified genetic effect of rs16969968 on heavy smoking based on age of onset of smoking.” [*Nicotine and Tobacco Research*](https://doi.org/10.1093/ntr/ntaa229).
 
-* **Border, R.** and Becker, S. (2019). Stochastic Lanczos estimation of genomic variance components for linear mixed-effects models. [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-019-2978-z).
+* **Border, R.** and Becker, S. (2019). “Stochastic Lanczos estimation of genomic variance components for linear mixed-effects models.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-019-2978-z).
 
-* **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2019). No support for historic candidate gene or candidate gene-by-interaction hypotheses for major depression across multiple large samples. [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2018.18070881).
+* **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2019). “No support for historic candidate gene or candidate gene-by-interaction hypotheses for major depression across multiple large samples.” [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2018.18070881).
 
-* **Border, R.**, Johnson, E.C., Evans, L.M., Keller, M.C. (2019). Measurement error cannot account for failed replications of historic candidate gene-by-environment hypotheses: response to Vrshek-Schallhorn et al.. [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2019.19040374r).
+* **Border, R.**, Johnson, E.C., Evans, L.M., Keller, M.C. (2019). “Measurement error cannot account for failed replications of historic candidate gene-by-environment hypotheses: response to Vrshek-Schallhorn et al..” [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2019.19040374r).
 
-* **Border, R.**, Smolen, A., Corley, R., Stallings, M., Brown, S., Conger, R., Derringer, J., Donnellan, B., Haberstick, B., Hewitt, J., Hopfer, C., Krauter, K., McQueen, M., Wall, T., Keller, M., Evans, L. (2019). Imputation of behavioral candidate gene repeat polymorphisms in 486,551 publicly-available UK Biobank individuals. [*European Journal of Human Genetics*](https://doi.org/10.1038/s41431-019-0349-x).
+* **Border, R.**, Smolen, A., Corley, R., Stallings, M., Brown, S., Conger, R., Derringer, J., Donnellan, B., Haberstick, B., Hewitt, J., Hopfer, C., Krauter, K., McQueen, M., Wall, T., Keller, M., Evans, L. (2019). “Imputation of behavioral candidate gene repeat polymorphisms in 486,551 publicly-available UK Biobank individuals.” [*European Journal of Human Genetics*](https://doi.org/10.1038/s41431-019-0349-x).
 
 * **Border, R.**, Corley, R.C., Brown, S.A., Hewitt, J.K., Hopfer, C.J., Williams, S.K., Rhea, S., Shriver, C.L., Stallings, M.C., Wall, T.L., Woodward, K.E., Rhee, S.H. (2018). “Independent predictors of mortality in adolescents ascertained for conduct disorder and substance use problems, their siblings, and community controls.” [*Addiction*](https://doi.org/10.1111/add.14366).
 
