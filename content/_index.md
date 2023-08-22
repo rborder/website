@@ -149,7 +149,7 @@ I have served as a special topic guest editor for *Frontiers in Genetics*. Addit
 
 * **Mathematical Statistics** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).
 
-* **Statistical Methods** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).1
+* **Statistical Methods** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).
 
 * **Statistical Programming with R** (Graduate) *Teaching Assistant, Department of Psychology and Neuroscience* (2016).
 
