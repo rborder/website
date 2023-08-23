@@ -123,7 +123,7 @@ Advised by Terry Kawashima. *Department of East Asian Studies, Wesleyan Universi
 I have served as a special topic guest editor for *Frontiers in Genetics*. Additionally, I have refereed for the following journals / conferences:
 
 * *Alcoholism: Clinical and Experimental Research*
-* *American Journal of Medical Genetics Part*
+* *American Journal of Medical Genetics*
 * *American Journal of Psychiatry*
 * *Bioscience Reports*
 * *BMC Bioinformatics*
