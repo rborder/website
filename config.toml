@@ -44,7 +44,7 @@ disableKinds = ["taxonomy", "term"]
   #   url = "/"
   #   weight = 1
   [[menu.main]]
-    name = "curiculum vita"
+    name = "curriculum vita"
     url = "/rbordervita.pdf"
     # 'pre' and 'post' hooks are available
     # here we use an icon from Bootstrap https://icons.getbootstrap.com/
