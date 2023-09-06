@@ -112,7 +112,16 @@ $y-medium: 1.0rem;
         & > li {
             list-style-position: outside;
             margin-left: 1em;
-        }
+         }
+        & > li li {
+	    line-height: 0;
+            list-style-position: outside;
+            list-style-type: none;
+            ///margin-left: 2em;
+	    margin-top: 0;
+	    padding-top: 0;
+	    padding-bottom: .75em;
+         }
     }
     .container > ul, .footnotes > ul {
         padding-left: 0;
@@ -134,8 +143,11 @@ $y-medium: 1.0rem;
     blockquote {
         border-left: 4px solid;
         font-style: italic;
-        margin: $y-medium 0;
-        padding: 8px 8px;
+        margin: 0 0;
+	margin-top: -.5em;
+        margin-left: 2em;
+	margin-bottom: .5em;
+        padding: 0px 8px 0px 8px;
     }
     code {
         color: $black;

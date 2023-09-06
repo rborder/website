@@ -21,7 +21,8 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 * **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-023-05442-6).
 
-* **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” [*Science*](https://doi.org/10.1126/science.abo2059).
+* **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” [*Science*](https://doi.org/10.1126/science.abo2059). 
+  - *Highlighted by [Science](https://doi.org/10.1126/science.ade8002) and [The Conversation](https://theconversation.com/people-dont-mate-randomly-but-the-flawed-assumption-that-they-do-is-an-essential-part-of-many-studies-linking-genes-to-diseases-and-traits-194793)*.
 
 * Jami, J.S., ..., **Border, R.**, ..., Middeldorp, C.M. (2022). “Genome-wide association meta-analysis of childhood and adolescent internalising symptoms.” [*Journal of the American Academy of Child and Adolescent Psychiatry*](https://doi.org/10.1016/j.jaac.2021.11.035).
 
@@ -34,6 +35,7 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 * **Border, R.** and Becker, S. (2019). “Stochastic Lanczos estimation of genomic variance components for linear mixed-effects models.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-019-2978-z).
 
 * **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2019). “No support for historic candidate gene or candidate gene-by-interaction hypotheses for major depression across multiple large samples.” [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2018.18070881).
+  * *Highlighted by [CBC](http://cbc.ca/radio/quirks/june-8-2019-a-diet-of-microplastic-canada-s-northern-limits-elephants-smell-numbers-and-more-1.5165286/depressing-conclusion-as-new-study-reverses-25-years-of-research-1.5165306) and [The Atlantic](https://www.theatlantic.com/science/archive/2019/05/waste-1000-studies/589684/)*.
 
 * **Border, R.**, Johnson, E.C., Evans, L.M., Keller, M.C. (2019). “Measurement error cannot account for failed replications of historic candidate gene-by-environment hypotheses: response to Vrshek-Schallhorn et al..” [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2019.19040374r).
 
