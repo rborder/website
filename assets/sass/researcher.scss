@@ -78,11 +78,12 @@ $y-medium: 1.0rem;
         }
     }
     img {
-        display: block;
-        margin: $y-medium auto;
+        ///display: block;
+        //margin: $y-medium auto;
         max-width: 100%;
     }
     .avatar > img {
+        display: block;
         float: right;
         margin: -8px 0 0 16px;
         height: $avatar-size;
