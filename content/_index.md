@@ -14,10 +14,9 @@ I study problems at the intersections of human genetics, statistics, quantitativ
 
 My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department. I also work with the Price Lab at the Harvard T. H. Chan School of Public Health Department of Epidemiology, which I joined as a visiting scientist in 2021.
 
-## Preprints
-* Dahl, A., ..., **Border, R.**, ..., Cai, N.. “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of MDD.” [*bioRꭓiv*](https://doi.org/10.1101/2022.08.15.503980).
-
 ## Peer-reviewed publications
+
+* Dahl, A., ..., **Border, R.**, ..., Cai, N.. “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of MDD.” *In press* at *Nature Genetics*. Preprint available from [*bioRꭓiv*](https://doi.org/10.1101/2022.08.15.503980).
 
 * **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-023-05442-6).
 
