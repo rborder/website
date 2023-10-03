@@ -4,13 +4,13 @@ title = "Richard Border"
 
 {{< figure class="avatar" src="/head_sq.jpg" alt="avatar">}}
 
-I study problems at the intersections of human genetics, statistical inference, quantitative psychology, and applied mathematics. My primary research interests include:
+I study problems at the intersections of human genetics, statistics, quantitative psychology, and applied mathematics. My primary research interests include:
 
-1. Polygenic estimators under nonrandom mating and other forms of population structure.
+1. Nonrandom mating and other forms of population structure, particularly how they impact inference about genetic architecture
 
-2. Efficient and flexible numerical methods for the analysis and simulation of genome-wide data.
+2. Scalable Bayesian inference and other methods for the efficient and flexible analysis and simulation of genome-wide data.
 
-3. Metascience, model misspecification, falsifiability, and the identification of spurious findings. 
+3. Metascience, measurement, model misspecification, and sensitivity analysis. 
 
 My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department. I also work with the Price Lab at the Harvard T. H. Chan School of Public Health Department of Epidemiology, which I joined as a visiting scientist in 2021.
 
