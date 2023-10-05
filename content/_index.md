@@ -146,6 +146,7 @@ I have served as a special topic guest editor for *Frontiers in Genetics*. Addit
 * *Journal of Clinical Medicine*
 * *Journal of Psychiatric Research*
 * *Molecular Psychiatry*
+* *Nature Communications*
 * *Nature Human Behavior*
 * *Nature Genetics*
 * *Psychiatry Research*
