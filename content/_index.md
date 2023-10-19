@@ -36,8 +36,7 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 * **Border, R.** and Becker, S. (2019). “Stochastic Lanczos estimation of genomic variance components for linear mixed-effects models.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-019-2978-z).
 
 * **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2019). “No support for historic candidate gene or candidate gene-by-interaction hypotheses for major depression across multiple large samples.” [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2018.18070881). 
-<!-- <small>[<i class="fa-regular fa-file-lines"></i>](/reprints/border_et_al_AJP_2019.pdf)</small> -->
-  * *Highlighted by [CBC](http://cbc.ca/radio/quirks/june-8-2019-a-diet-of-microplastic-canada-s-northern-limits-elephants-smell-numbers-and-more-1.5165286/depressing-conclusion-as-new-study-reverses-25-years-of-research-1.5165306) and [The Atlantic](https://www.theatlantic.com/science/archive/2019/05/waste-1000-studies/589684/)*.
+  - *Highlighted by [CBC](http://cbc.ca/radio/quirks/june-8-2019-a-diet-of-microplastic-canada-s-northern-limits-elephants-smell-numbers-and-more-1.5165286/depressing-conclusion-as-new-study-reverses-25-years-of-research-1.5165306) and [The Atlantic](https://www.theatlantic.com/science/archive/2019/05/waste-1000-studies/589684/)*.
 
 * **Border, R.**, Johnson, E.C., Evans, L.M., Keller, M.C. (2019). “Measurement error cannot account for failed replications of historic candidate gene-by-environment hypotheses: response to Vrshek-Schallhorn et al..” [*American Journal of Psychiatry*](https://doi.org/10.1176/appi.ajp.2019.19040374r).
 
@@ -50,8 +49,7 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 * Johnson, E.C., **Border, R.**, Melroy-Greif, W.E., de Leeuw, C., Ehringer, M.A., Keller, M.C. (2017). “No evidence that schizophrenia candidate genes are more associated with schizophrenia than non-candidate genes.” [*Biological Psychiatry*](http://dx.doi.org/10.1016/j.biopsych.2017.06.033).
 
 * **Border, R.** and Keller, M.C. (2017). “Fundamental problems with candidate gene-by-environment interaction studies.” [*Journal of Child Psychology and Psychiatry*](http://dx.doi.org/10.1111/jcpp.12669).
-
-
+<!-- <small>[<i class="fa-regular fa-file-lines"></i>](/reprints/border_et_al_AJP_2019.pdf)</small> -->
 ## Software
 
 
