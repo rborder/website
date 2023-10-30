@@ -53,10 +53,10 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 ## Software
 
 
-* **Border, R.**. "xftsim: eXtensible Forward Time SIMulator."  [![rborder - xftsim](./rborder-xftsim-2ea44f.svg)](https://github.com/rborder/xftsim) [![PyPI version](https://badge.fury.io/py/xftsim.svg)](https://badge.fury.io/py/xftsim) [![readthedocs - xftsim](./readthedocs-xftsim-8CA1AF.svg)](https://xftsim.readthedocs.io)
+* **Border, R.** (2023). "xftsim: eXtensible Forward Time SIMulator."  [![rborder - xftsim](./rborder-xftsim-2ea44f.svg)](https://github.com/rborder/xftsim) [![PyPI version](https://badge.fury.io/py/xftsim.svg)](https://badge.fury.io/py/xftsim) [![readthedocs - xftsim](./readthedocs-xftsim-8CA1AF.svg)](https://xftsim.readthedocs.io)
    
 
-* **Border, R.** and Malik, O.A.. "rBahadur: efficient simulation of genotype / phenotype data under assortative mating by generating Bahadur order-2 multivariate Bernoulli distributed random variates." 
+* **Border, R.** and Malik, O.A. (2022). "rBahadur: efficient simulation of genotype / phenotype data under assortative mating by generating Bahadur order-2 multivariate Bernoulli distributed random variates." 
  [![rborder - rBahadur](./rborder-rBahadur-2ea44f.svg)](https://github.com/rborder/rBahadur) [![CRAN](https://www.r-pkg.org/badges/version/rBahadur)](https://cran.r-project.org/package=rBahadur) 
 
 
