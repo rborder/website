@@ -23,7 +23,7 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 * **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-023-05442-6).
 
 * **Border, R.**, Athanasiadis, G., Build, A., Schork, A., Cai, N., Young, A., Werge, T., Flint, J., Kendler, K., Sankararaman, S., Dahl, A., Zaitlen, N. (2022). “Cross-trait assortative mating is widespread and inflates genetic correlation estimates.” [*Science*](https://doi.org/10.1126/science.abo2059). 
-  - *Highlighted by [Science](https://doi.org/10.1126/science.ade8002) and [The Conversation](https://theconversation.com/people-dont-mate-randomly-but-the-flawed-assumption-that-they-do-is-an-essential-part-of-many-studies-linking-genes-to-diseases-and-traits-194793)*.
+  - *Highlighted by [Science](https://doi.org/10.1126/science.ade8002), [WIRED](https://www.wired.com/story/theres-a-new-explanation-for-genetic-trait-pairs-your-parents), and [The Conversation](https://theconversation.com/people-dont-mate-randomly-but-the-flawed-assumption-that-they-do-is-an-essential-part-of-many-studies-linking-genes-to-diseases-and-traits-194793)*.
 
 * Jami, J.S., ..., **Border, R.**, ..., Middeldorp, C.M. (2022). “Genome-wide association meta-analysis of childhood and adolescent internalising symptoms.” [*Journal of the American Academy of Child and Adolescent Psychiatry*](https://doi.org/10.1016/j.jaac.2021.11.035).
 
