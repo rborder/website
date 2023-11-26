@@ -16,9 +16,8 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 ## Peer-reviewed publications
 
-* Dahl, A., ..., **Border, R.**, ..., Cai, N.. “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of MDD.” *In press* at *Nature Genetics*. Preprint available from [*bioRꭓiv*](https://doi.org/10.1101/2022.08.15.503980).
- <!-- [<i class="fa-regular fa-file-lines"></i>](/reprints/border_et_al_AJP_2019.pdf) -->
-<!-- <i class="fa-brands fa-r-project"></i> -->
+* Dahl, A., ..., **Border, R.**, ..., Cai, N. (2023). “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of major depressive disorder.” [*Nature Genetics*](https://doi.org/10.1038/s41588-023-01559-9).
+ <!-- [<i class="fa-regular fa-file-lines"></i>](/reprints/border_et_al_AJP_2019.pdf)  *In press* at *Nature Genetics*. Preprint available from [*bioRꭓiv*](https://doi.org/10.1101/2022.08.15.503980).<i class="fa-brands fa-r-project"></i> -->
 
 * **Border, R.** and Malik, O.A. (2023). “rBahadur: efficient simulation of structured high-dimensional genotype data with applications to assortative mating.” [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-023-05442-6).
 
