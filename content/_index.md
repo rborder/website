@@ -12,7 +12,7 @@ I study problems at the intersections of human genetics, statistics, quantitativ
 
 3. Metascience, measurement, model misspecification, and sensitivity analysis. 
 
-My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department. I also work with the Price Lab at the Harvard T. H. Chan School of Public Health Department of Epidemiology, which I joined as a visiting scientist in 2021.
+My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department.
 
 ## Peer-reviewed publications
 
