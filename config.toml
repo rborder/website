@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "mailto:border.richard@gmail.com.com"
+    url = "mailto:border.richard@gmail.com"
   [[params.socialIcons]]
     icon = "ai ai-google-scholar"
     title = "Google scholar"
