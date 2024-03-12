@@ -2,7 +2,7 @@
 title = "Richard Border"
 +++
 
-{{< figure class="avatar" src="/head_sq.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/headsq.jpg" alt="avatar">}}
 
 I study problems at the intersections of human genetics, statistics, quantitative psychology, and applied mathematics. My primary research interests include:
 
