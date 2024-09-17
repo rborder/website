@@ -4,7 +4,7 @@ title = "Richard Border"
 
 {{< figure class="avatar" src="/headsq.jpg" alt="haunting image of my face">}}
 
-I study problems at the intersections of human genetics, statistics, quantitative psychology, and applied mathematics. My primary research interests include:
+I am an assistant professor in the Department of Computational Biology at the Carnegie Mellon University School of Computer Science. I study problems at the intersections of human genetics, statistics, quantitative psychology, and applied mathematics. My primary research interests include:
 
 1. Nonrandom mating and other forms of population structure, particularly how they impact inference about genetic architecture
 
