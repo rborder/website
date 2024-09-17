@@ -12,9 +12,23 @@ I study problems at the intersections of human genetics, statistics, quantitativ
 
 3. Metascience, measurement, model misspecification, and sensitivity analysis. 
 
-My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department.
+I am moving to Carnegie Mellon University to start my lab in January 2025. In the meantime, I'm working with Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department.
+
+## Manuscripts under review
+* Fu, B., ..., **Border, R.**, ..., Sankararaman, S.. “A biobank-scale test of marginal epistasis reveals genome-wide signals of polygenic epistasis".[doi.org/10.1101/2023.09.10.557084](https://doi.org/110.1101/2023.09.10.557084)
+
+* Krebs, K.D., ..., **Border, R.**, ..., Schork, A.J.. “The relationship between genotype- and phenotype-based estimates of genetic liability to psychiatric disorders, in practice and in theory.” Out for review at the *American Journal of Human Genetics*.
+
+* Medford, J., ..., **Border, R.**, ..., Zaitlen, N.. “Beyond predictive R-squared: Complex relationships between traits and their corresponding polygenic scores are revealed using non-equivalence tests of quantile-specific linear models.” *Invited for resubmission* at the *American Journal of Human Genetics*.
+
+* Sadowski, M., ..., **Border, R.**, ..., Zaitlen, N.. “Genetics modulates the impact of widely-used drugs on outcomes and side effects.” *Invited for resubmission* at [*Cell Genomics*](https://doi.org/10.1101/2024.03.29.24305093)
+
+* Tan, T., ..., **Border, R.**, ..., Young, S.. “Family-GWAS reveals effects of environment and mating on genetic associations.” *Out for review* at *Nature*.
+
+* Wei, A., **Border, R.**, ..., Arboleda, V.. “The genetic underpinnings of variable penetrance and expressivity of pathogenic mutations in cardiometabolic traits.” *Invited for resubmission* at [*Nature Communications*](https://doi.org/10.1101/2023.09.14.23295564)
 
 ## Peer-reviewed publications
+* Krebs, K.D., ..., **Border, R.**, ..., Schork, A.J. (2024). “PA-FGRS is a novel estimator of pedigree-based genetic liability that complements genotype-based inferences into the genetic architecture of major depressive disorder.” Accepted in principle at the *American Journal of Human Genetics*.
 
 * Dahl, A., ..., **Border, R.**, ..., Cai, N. (2023). “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of major depressive disorder.” [*Nature Genetics*](https://doi.org/10.1038/s41588-023-01559-9).
  <!-- [<i class="fa-regular fa-file-lines"></i>](/reprints/border_et_al_AJP_2019.pdf)  *In press* at *Nature Genetics*. Preprint available from [*bioRꭓiv*](https://doi.org/10.1101/2022.08.15.503980).<i class="fa-brands fa-r-project"></i> -->
@@ -59,7 +73,7 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
  [![rborder - rBahadur](./rborder-rBahadur-2ea44f.svg)](https://github.com/rborder/rBahadur) [![CRAN](https://www.r-pkg.org/badges/version/rBahadur)](https://cran.r-project.org/package=rBahadur) 
 
 
-## Presentations
+## Recent presentations
 
 * **Border, R.**. “Simulation of complex phenogenetic architectures incorporating multivariate assortative mating, vertical transmission, cross-trait causal dependencies, and fine-scale population structure.” Talk presented at the 2023 *Probabilistic Modeling in Genomics* meeting.
 
@@ -69,24 +83,8 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 
 * **Border, R.**, Athanasiadis, G., Buil Demur, A., Schork, A., Werge, T., Kendler, K., Flint, J., Dahl, A., Zaitlen, N. (2021). “Widespread evidence of systematic bias in estimates of genetic correlation due to cross-trait assortative mating.” Plenary talk presented at the 2021 annual meeting of the *American Society of Human Genetics.*
 
-* **Border, R.**, Becker, S. (2019). “Randomized algorithms for genomic variance components estimation in mixed models”. Poster presented at the 2019 *International Workshop on Statistical Genetic Methods for Human Complex Traits*, Boulder, CO.
 
-* **Border, R.**, Johnson, E.C., Evans, L.M., Berley, N., Sullvan, P.F., Keller, M.C. (2018). “Quantitative reconcilliation of GWAS and candidate gene findings: measurement error, nonlinearity, and artifactual results.” Paper presentation accepted for the 48th meeting of the *Behavior Genetics Association* in Boston, MA. (Talk delivered by M.C. Keller due to illness).
-
-* **Border, R.**, Johnson, E.C., Berley, N., Medland, S.E., Sullvan, P.F., Keller, M.C. (2018). “Examining the relevance of canonical candidate genes for major depression”. Poster accepted for the 48th meeting of the *Behavior Genetics Association* in Boston, MA.
-
-* Evans, L.M., **Border, R.**, du Pont, A., Friedman, N.P., Johnson, E., Yang, J., Visscher, P., Keller, M.C. (2018). “Exploring the genetic architecture of psychiatric disorders using partitioned heritability approaches.” Symposium presented by Luke Evans at the *World Congress of Psychiatric Genetics*, October 2018, Glasgow, Scotland.
-
-* **Border, R.**, Johnson, E.C., Berley, N., Sullvan, P.F., Keller, M.C. (2017). “Discrepancies between candidate gene and genome-wide studies of complex traits and endophenotypes.” Poster presented at the 25th annual meeting of the *World Congress of Psychiatric Genetics*, Orlando, Florida.
-
-* Park, A. L., Tsai, K. H., Guan, K., **Border, R.**, and Chorpita, B. F. (2017). “Unintended consequences of evidence-based treatment policy reform.” In Use of Evidence in Mental Health Treatment and Clinical Decision-Making. Symposium held at the 4th Biennial *Society for Implementation Research Collaboration* Conference, Seattle, WA.
-
-* Johnson, E.C., Melroy-Greif, W.E., **Border, R.**, Keller, M.C., Ehringer, M.A. (2016). “Examining 25 classic schizophrenia candidate genes in the context of GWAS data: evidence for relevance?” Poster presented at the 2016 meeting of the *American Society of Human Genetics* in Vancouver, British Colombia.
-
-* **Border, R.**, Sawaya, S., Huggett, S., Brown, S.A., Wall, T.L., and Stallings, M.C. (2015). “Sensitivity of random forests algorithm to population stratification in GWAS data.” Postter presented at the 45th annual meeting of the *Behavior Genetics Association* in San Diego, CA
-
-
-## Honors and awards
+## Recent honors and awards
 
 * Outstanding Mentorship Award. *Bruins in Genomics Summer Research Program* (2023).
 
@@ -95,20 +93,6 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 * Random Matrix Theory and Numerical Linear Algebra Conference Travel Award. *National Science Foundation* (2022).
 
 * Charles J. Epstein Research Semifinalist Award. *American Society for Human Genetics* (2021).
-
-* National Institutes of Health Postdoctoral Trainee (*T32NS048004*). *Semel Institute for Neuroscience and Human Behavior, University of California, Los Angeles* (2021).
-
-* Dosier Muenzinger Award for Outstanding Contribution to Basic Research. *Department of Psychology and Neuroscience, University of Colorado Boulder* (2020).
-
-* National Institutes of Health Predoctoral Trainee (*T32MH016880*). Selected by faculty training committee thrice consecutively (maximum number of times awarded to any graduate student). *Institute for Behavioral Genetics, University of Colorado Boulder* (2016-2019).
-
-* Behavior Genetics Association Travel Award. *Behavior Genetics Association* (2018).
-
-* Departmental Travel Grant. *Department of Psychology and Neuroscience, University of Colorado Boulder* (2018).
-
-* United Government of Graduate Students Individual Travel Award. *University of Colorado Boulder Graduate School* (2017).
-
-* Predoctoral Fellowship. *Institute for Behavioral Genetics, University of Colorado Boulder* (2015-2019).
 
 
 ## Education
@@ -121,52 +105,3 @@ My research is supervised by Noah Zaitlen in the UCLA David Geffen School of Med
 * **Bachelor of Arts** (2011). ***Japanese Language and Literature.***
 Advised by Terry Kawashima. *Department of East Asian Studies, Wesleyan University*.
 
-
-## Dissertation and master's thesis
-
-* **Border, R.**. “Topics in the quantitative analysis of complex trait genetic architectures”. Psychology and Neuroscience Graduate Theses & Dissertations. [scholar.colorado.edu/concern/articles/vd66w090s](https://scholar.colorado.edu/concern/articles/vd66w090s)
-
-* **Border, R.**. “Stochastic Lanczos likelihood estimation of genomic variance components”. Applied Mathematics Graduate Theses & Dissertations. [scholar.colorado.edu/appm_gradetds/120](https://scholar.colorado.edu/appm_gradetds/120)
-
-
-## Peer review
-
-I have served as a special topic guest editor for *Frontiers in Genetics*. Additionally, I have refereed for the following journals / conferences:
-
-* *Alcoholism: Clinical and Experimental Research*
-* *American Journal of Medical Genetics*
-* *American Journal of Psychiatry*
-* *Bioscience Reports*
-* *BMC Bioinformatics*
-* *BMC Psychiatry*
-* *eLife*
-* *Frontiers in Public Health*
-* *Genes, Brain and Behavior*
-* *JAMA Psychiatry*
-* *Journal of Clinical Medicine*
-* *Journal of Psychiatric Research*
-* *Molecular Psychiatry*
-* *Nature Communications*
-* *Nature Human Behavior*
-* *Nature Genetics*
-* *Psychiatry Research*
-* *Psychological Bulletin*
-* *Psychoneuroendocrinology*
-* *Research in Computational Molecular Biology*
-
-
-## Teaching positions
-
-* **Statistical Methods and Applications II** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2019).
-
-* **Mathematical Statistics** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).
-
-* **Statistical Methods** (Combined Undergraduate and Graduate Sections) *Course Assistant, Department of Applied Mathematics* (2018).
-
-* **Statistical Programming with R** (Graduate) *Teaching Assistant, Department of Psychology and Neuroscience* (2016).
-
-* **Statistics II** (Graduate) *Teaching Assistant, Department of Psychology and Neuroscience* (2016).
-
-* **Introduction to Statistics** (Undergraduate) *Teaching Assistant, Department of Psychology and Neuroscience* (2015).
-
-* **Statistical Programming with R** (Graduate) *Teaching Assistant, Department of Psychology and Neuroscience* (2015).
