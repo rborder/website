@@ -15,7 +15,7 @@ I am an assistant professor in the Department of Computational Biology at the Ca
 I am moving to Carnegie Mellon University to start my lab in January 2025. In the meantime, I'm working with Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department.
 
 ## Manuscripts under review
-* Fu, B., ..., **Border, R.**, ..., Sankararaman, S.. “A biobank-scale test of marginal epistasis reveals genome-wide signals of polygenic epistasis".[doi.org/10.1101/2023.09.10.557084](https://doi.org/110.1101/2023.09.10.557084)
+* Fu, B., ..., **Border, R.**, ..., Sankararaman, S.. “A biobank-scale test of marginal epistasis reveals genome-wide signals of polygenic epistasis". [doi.org/10.1101/2023.09.10.557084](https://doi.org/110.1101/2023.09.10.557084)
 
 * Krebs, K.D., ..., **Border, R.**, ..., Schork, A.J.. “The relationship between genotype- and phenotype-based estimates of genetic liability to psychiatric disorders, in practice and in theory.” Out for review at the *American Journal of Human Genetics*.
 
