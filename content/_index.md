@@ -21,11 +21,11 @@ I am moving to Carnegie Mellon University to start my lab in January 2025. In th
 
 * Medford, J., ..., **Border, R.**, ..., Zaitlen, N.. “Beyond predictive R-squared: Complex relationships between traits and their corresponding polygenic scores are revealed using non-equivalence tests of quantile-specific linear models.” *Invited for resubmission* at the *American Journal of Human Genetics*.
 
-* Sadowski, M., ..., **Border, R.**, ..., Zaitlen, N.. “Genetics modulates the impact of widely-used drugs on outcomes and side effects.” *Invited for resubmission* at [*Cell Genomics*](https://doi.org/10.1101/2024.03.29.24305093)
+* Sadowski, M., ..., **Border, R.**, ..., Zaitlen, N.. “Genetics modulates the impact of widely-used drugs on outcomes and side effects.” *Invited for resubmission* at *Cell Genomics*. [doi.org/10.1101/2024.03.29.24305093](https://doi.org/10.1101/2024.03.29.24305093)
 
-* Tan, T., ..., **Border, R.**, ..., Young, S.. “Family-GWAS reveals effects of environment and mating on genetic associations.” *Out for review* at *Nature*.
+* Tan, T., ..., **Border, R.**, ..., Young, S.. “Family-GWAS reveals effects of environment and mating on genetic associations.” *Out for review* at *Nature*. [doi.org/10.1101/2024.10.01.24314703](https://doi.org/10.1101/2024.10.01.24314703)
 
-* Wei, A., **Border, R.**, ..., Arboleda, V.. “The genetic underpinnings of variable penetrance and expressivity of pathogenic mutations in cardiometabolic traits.” *Invited for resubmission* at [*Nature Communications*](https://doi.org/10.1101/2023.09.14.23295564)
+* Wei, A., **Border, R.**, ..., Arboleda, V.. “The genetic underpinnings of variable penetrance and expressivity of pathogenic mutations in cardiometabolic traits.” *Invited for resubmission* at *Nature Communications*. [doi.org/10.1101/2023.09.14.23295564](https://doi.org/10.1101/2023.09.14.23295564)
 
 ## Peer-reviewed publications
 * Krebs, K.D., ..., **Border, R.**, ..., Schork, A.J. (2024). “PA-FGRS is a novel estimator of pedigree-based genetic liability that complements genotype-based inferences into the genetic architecture of major depressive disorder.” Accepted in principle at the *American Journal of Human Genetics*.
