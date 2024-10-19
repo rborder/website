@@ -1,0 +1,65 @@
+{{ define "main" }}
+<div class="container p-0">
+    <div class="content p-0">
+        {{ .Content }}
+    </div>
+</div>
+
+<div class="article-list mt-2 ">
+    {{ $firstPreprint := true }}
+    {{ range sort .Site.Data.publications "class" "asc" }}
+      {{ if eq .class "preprint" }}
+      <div class="d-flex align-items-center" style="margin: 5px; width: 100%;">
+          <div class="fixed-width-container" style="width: 12%; text-align: right; padding-right: 10px;">
+              {{ if $firstPreprint }}
+              <span class="article-year"> in prep. </span>
+              {{ $firstPreprint = false }}
+              {{ end }}
+          </div>
+
+            <a href="https://doi.org/{{ .doi }}">
+              <div class="article fixed-width-container" style="padding: 0; width: 78%;">
+                  <ul class="article-links list-unstyled" style="padding-left: 0; margin-left: 0px;">
+                      <li>
+                          <span class="article-authors"> 
+                            {{ .authors | markdownify }}.
+                           </span> 
+                                <span class="article-title"> {{ .title }}. </span>
+                          <a href="https://doi.org/{{ .doi }}" target="_blank">{{ .doi }}</a>
+                      </li>
+                  </ul>
+              </div>
+                            </a>
+
+      </div>
+      {{ end }}
+    {{ end }}
+    {{ $firstYear := "" }}
+    {{ range sort .Site.Data.publications "year" "desc" }}
+      {{ if ne .class "preprint" }}
+      <div class="d-flex align-items-center" style="margin: 5px; width: 100%;">
+          <div class="fixed-width-container" style="width: 12%; text-align: right; padding-right: 10px;">
+              {{ if ne $firstYear .year }}
+              <span class="article-year"> {{ .year }} </span>
+              {{ $firstYear = .year }}
+              {{ end }}
+          </div>
+          <a href="https://doi.org/{{ .doi }}">
+          <div class="article fixed-width-container" style="padding: 0; width: 78%;">
+              <ul class="article-links list-unstyled" style="padding-left: 0; margin-left: 0px;">
+                  <li>
+                <span class="article-authors"> 
+
+                      {{ .authors | markdownify }}.
+                    </span>
+                         <span class="article-title"> {{ .title }}. </span>
+                         <a href="https://doi.org/{{ .doi }}" target="_blank">{{ .doi }}</a>
+                  </li>
+              </ul>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    {{ end }}
+</div>
+{{ end }}

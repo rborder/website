@@ -1,0 +1,18 @@
+
+
+
+
+{{ define "main" }}
+<div class="container">
+    {{ .Content }}
+</div>
+  <div class="people-list">
+    {{ range .Site.Data.people }}
+      <div class="person">
+        <img src="{{ .image }}" alt="{{ .name }}" class="person-icon">
+        <p class="person-name">{{ .name }}</p>
+        <p class="person-position">{{ .position }}</p>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

@@ -1,0 +1,376 @@
+// Sizes
+$max-width: {{ .Param "style.pageWidth" | default "750px;" }};
+$head-width: {{ .Param "style.pageWidth" | default "800px;" }};
+$avatar-size: {{ .Param "style.avatarSize" | default "90px;" }};
+
+// Colors
+$black: {{ .Param "style.colorBlack" | default "#222222" }};
+$accent: {{ .Param "style.colorRed" | default "#dc3545" }};
+
+// Font
+$font-family: {{ .Param "style.fontFamily" | default "Inconsolata" }};
+$font-size: {{ .Param "style.fontSize" | default "14pt" }};
+
+// Margins
+$y-small: 0.6rem;
+$y-medium: 1.0rem;
+
+
+// Logo / title positioning
+$logo-max-width: {{ .Param "style.logoMaxWidth" | default "50px;" }};
+$logo-max-height: {{ .Param "style.logoMaxHeight" | default "50px;" }};
+$logo-offset: {{ .Param "style.logoOffset" | default "-50px;" }};
+$title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
+
+// Placeholders
+%link-default {
+    color: $accent;
+    text-decoration: none;
+    & * {
+        color: $accent;
+    }
+    &:hover {
+        color: $accent;
+        text-decoration: underline;
+    }
+}
+%link-dark {
+    color: $black;
+    text-decoration: none;
+    & * {
+        color: $black;
+    }
+    &:hover {
+        color: $black;
+        text-decoration: underline;
+    }
+}
+%table-cell {
+    border: 1px solid #cccccc;
+    padding: 6px 12px;
+    text-align: left;
+}
+
+// Style
+* {
+    color: $black;
+    font-family: $font-family;
+    font-size: $font-size;
+    line-height: 1.2;
+}
+.container {
+    max-width: $max-width;
+}
+
+.navbar-brand img {
+    margin-right: 5px; // Adjust this value as needed to reduce the spacing
+    vertical-align: middle; // Vertically align the logo with the text for a consistent look
+}
+
+.navbar-brand {
+    @extend %link-dark;
+    display: flex; // Use flex to control the alignment of logo and title
+    vertical-align: middle; // Vertically align the logo with the text for a consistent look
+    align-items: center; // Center vertically
+    gap: 0px; // Control the gap between logo and title
+}
+
+// .brand-symbol {
+//     @extend %link-dark;
+//     font-family: $font-family;
+//     font-size: 2.7rem;
+//     margin-left: 0px;
+// }
+
+.nav-link {
+    @extend %link-default;
+}
+.content {
+    text-align: justify;
+    a {
+        @extend %link-default;
+    }
+    p {
+        margin-bottom: $y-small;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-size: medium;
+        font-weight: bold;
+        margin: $y-medium 0 $y-small 0;
+    }
+    @for $i from 1 through 4 {
+        h#{$i} {
+            font-size: 1.2rem + 0.2 * (4 - $i);
+        }
+    }
+    img {
+        ///display: block;
+        //margin: $y-medium auto;
+        max-width: 100%;
+    }
+    .avatar > img {
+        display: block;
+        float: right;
+        margin: -8px 0 0 16px;
+        height: $avatar-size;
+        width: $avatar-size;
+    }
+    ol {
+        counter-reset: list;
+        list-style: none;
+        padding-left: 2rem;
+        & > li {
+            display: table-row;
+        }
+        & > li:before {
+            content: "[" counter(list, decimal) "] ";
+            counter-increment: list;
+            display: table-cell;
+            text-align: right;
+            padding-right: .5em;
+        }
+    }
+    .container > ol, .footnotes > ol {
+        padding-left: 0;
+    }
+    ul {
+        list-style: inside;
+        padding-left: 2rem;
+        & > li {
+            list-style-position: outside;
+            margin-left: 1em;
+         }
+        & > li li {
+        line-height: 0;
+            list-style-position: outside;
+            list-style-type: none;
+            ///margin-left: 2em;
+        margin-top: 0;
+        padding-top: 0;
+        padding-bottom: .75em;
+         }
+    }
+    .container > ul, .footnotes > ul {
+        padding-left: 0;
+    }
+    table {
+        margin: $y-medium auto;
+        width: 100%;
+        & th {
+            @extend %table-cell;
+            font-weight: bold;
+        }
+        & td {
+            @extend %table-cell;
+        }
+        & tr:nth-child(2n) {
+            background-color: #f8f8f8;
+        }
+    }
+    blockquote {
+        border-left: 4px solid;
+        font-style: italic;
+        margin: 0 0;
+    margin-top: -.5em;
+        margin-left: 2em;
+    margin-bottom: .5em;
+        padding: 0px 8px 0px 8px;
+    }
+    code {
+        color: $black;
+        background-color: #f8f8f8;
+        border: 1px solid #cccccc;
+        border-radius: 10%;
+        padding: 0px 4px;
+    }
+    pre code {
+        all: unset;
+    }
+    .highlight {
+        margin: $y-medium auto;
+        & > pre {
+            padding: 8px 8px;
+        }
+    }
+}
+#footer {
+    a {
+        @extend %link-dark;
+    }
+}
+
+
+.logo img {
+    align: right;
+    max-width: 150px; /* Adjust as needed */
+    max-height: 150px; /* Adjust as needed */
+}
+
+.navbar {
+    // padding-left: 200px; /* Push the navbar content right to leave space for the logo */
+    align-items: left;
+}
+
+
+//////////////////////////////// LOGO ///////////////////////////////////////
+
+
+
+
+.logo-container {
+    position: relative; /* Remove absolute positioning */
+    display: inline-flex; /* Ensure the logo is inline with the title */
+    align-items: center; /* Align the logo vertically in the middle */
+    margin-right: 10px; /* Optional: Add spacing between logo and title */
+}
+
+.logo {
+    img {
+        max-width: $logo-max-width; // Adjust based on desired logo size
+        max-height: $logo-max-height;
+    }
+}
+
+.logo-outside {
+    left: $logo-offset; // Adjust this value to control how far the logo is outside the primary view
+    top: 50%; // Vertically center relative to the parent container
+    transform: translateY(-50%);
+}
+
+
+//////////////////////////////// PEOPLE ///////////////////////////////////////
+
+// People page container
+.people.container {
+  padding: 40px;
+  text-align: center;
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+// People list - Flexbox grid for the people icons
+.people-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+// Individual person styling
+.person {
+  width: 300px;
+  text-align: center;
+  // background-color: #f9f9f9;
+  // border: 1px solid #e1e1e1;
+  border-radius: 10px;
+  padding: 20px;
+  // box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.person:hover {
+  // transform: translateY(-2px);
+  // box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+// Person icon (circular image)
+.person-icon {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+// Person name styling
+.person-name {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: $black;
+  margin-bottom: 10px;
+}
+.person-position {
+  font-size: 1em;
+  font-weight: 400;
+  color: $black;
+  margin-bottom: 10px;
+}
+@media (max-width: 768px) {
+  .people-list {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .person {
+    width: 100%;
+    max-width: 300px;
+  }
+}
+
+//////////////////////////////// ARTICLE LIST /////////////////////////////////
+.article-list {
+  padding: 0;
+  max-width: $max-width;
+  margin: 0 auto;
+
+  .article {
+    padding: 0;
+    margin: 0 0 5px 0; // Set top and side margins to 0, keep a small bottom margin
+    border: 1px solid #e1e1e1;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+
+  .article:hover {
+    // transform: translateY(-1px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.05);
+  }
+
+  ul.article-links {
+    padding: 0; // Remove default padding from the list
+    margin: 5px; // Remove any margin from the list
+  }
+
+  li {
+    padding: 0; // Remove default padding from list items
+    margin: 5px; // Remove any margin from list items
+    list-style: none; // Remove default bullet points
+  }
+
+  .article-title {
+    font-size: 1em;
+    font-weight: 300;
+    color: $black;
+    font-style: italic;
+    margin-bottom: 2px;
+  }
+  a .article {
+    // text-decoration: none;
+    color: $black;
+    // pointer-events: none;
+    }
+  a .article-authors * {
+    // text-decoration: none;
+    color: $black;
+    // pointer-events: none;
+    }
+  .article-authors {
+    font-size: 1em;
+    font-weight: 400;
+    color: $black;
+    margin-bottom: 2px;
+  }
+
+  .article-year {
+    font-size: 1em;
+    color: $black;
+    font-weight: 300;
+    font-style: italic;
+  }
+
+  .article-doi {
+    font-size: 1em;
+    font-weight: 300;
+    color: $black;
+  }
+}

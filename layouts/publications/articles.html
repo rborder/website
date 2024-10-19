@@ -1,0 +1,12 @@
+
+{{ define "main" }}
+<div class="container">
+    {{ .Content }}
+</div>
+  <div class="article-list">
+    {{ range .Site.Data.people }}
+      <div class="article">
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

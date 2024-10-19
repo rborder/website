@@ -1,0 +1,20 @@
+[31mwlp2s0: disconnected[0m
+	"MEDIATEK Wi-Fi"
+	wifi (mt7921e), 10:6F:D9:D1:DD:9B, hw, mtu 1500
+
+[31mp2p-dev-wlp2s0: disconnected[0m
+	"p2p-dev-wlp2s0"
+	wifi-p2p, hw
+
+[2menp1s0: unavailable[0m
+	"Realtek RTL8111/8168/8411"
+	ethernet (r8169), 50:A1:32:2A:FF:11, hw, mtu 1500
+
+[2mlo: unmanaged[0m
+	"lo"
+	loopback (unknown), 00:00:00:00:00:00, sw, mtu 65536
+
+Use "nmcli device show" to get complete information about known devices and
+"nmcli connection show" to get an overview on active connection profiles.
+
+Consult nmcli(1) and nmcli-examples(7) manual pages for complete usage details.
