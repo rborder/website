@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>borderlab on borderlab @ CMU</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in borderlab on borderlab @ CMU</description>
+    <title>news on borderlab @ CMU</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in news on borderlab @ CMU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 19 Oct 2024 16:22:13 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join Us</title>
       <link>http://localhost:1313/news/join-us/</link>

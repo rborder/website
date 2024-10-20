@@ -1,6 +1,8 @@
-+++
-title = "borderlab"
-+++
+---
+title: "borderlab"
+layout: "single"
+showNews: true
+---
 
 <!-- {{< figure class="avatar" src="/images/headsqsm.jpg" alt="haunting image of my face">}} -->
 
@@ -13,5 +15,4 @@ I am an assistant professor in the Department of Computational Biology at the Ca
 3. Metascience, measurement, model misspecification, and sensitivity analysis. 
 
 I am moving to Carnegie Mellon University to start my lab in January 2025. In the meantime, I'm working with Noah Zaitlen in the UCLA David Geffen School of Medicine Neurology Department and Sriram Sankararaman in the UCLA Computer Science Department.
-.
 

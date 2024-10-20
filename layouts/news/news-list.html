@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container p-0">
+    <div class="content p-0">
+        {{ .Content }}
+    </div>
+</div>
+<div class="article-list mt-2">
+<h4 style="margin-left: 0%; text-align: center;"> news </h4>
+    {{ range sort (where .Site.Pages "Kind" "page") "Date" "desc" }}
+    <div class="d-flex align-items-center" style="margin: 0px; width: 100%;">
+        <div class="article fixed-width-container" style="padding:0; width: 100%;">
+            <ul class="news-links list-unstyled" style="padding-left: 0; margin-left: 0px;">
+                <li>
+                 <span class="news-date">{{ .Date.Format "2006-01-02" }}</span>
+        <a href="{{ .Permalink }}" target="_blank" style="text-decoration: none; color: inherit;">
+                  <span class="news-title">{{ .Title }}</span>
+                </li>
+            </ul>
+        </div>
+        </a>
+    </div>
+    {{ end }}
+</div>
+
+{{ end }}

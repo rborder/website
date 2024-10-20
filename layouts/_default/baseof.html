@@ -8,8 +8,16 @@
         {{- partial "header.html" . -}}
         <div class="content">
         {{- block "main" . }}{{- end }}
+        {{ if (.Params.showNews) }}
+        <div class="container">
+            <div class="fixed-width-containerfixed-width-container" style="width: 90%; margin-left: 5%; margin-right: 5%;">
+                {{- partial "partial-news-list.html" . -}}
         </div>
+        {{ end }}
+        </div>
+
         {{- partial "footer.html" . -}}
+
     </body>
 </html>
 
