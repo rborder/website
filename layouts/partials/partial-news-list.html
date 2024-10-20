@@ -1,6 +1,6 @@
 <div class="article-list mt-2">
 <h2 style="margin-left: 0%; text-align: center;">recent news </h2>
-{{ range first 4 (sort (where .Site.Pages "Kind" "page") "Date" "desc") }}
+{{ range first 4 (sort (where .Site.Pages "Params.news" true) "Date" ) }}
     <div class="d-flex align-items-center" style="margin: 0px; width: 100%;">
         <div class="article fixed-width-container" style="padding:0; width: 100%;">
             <ul class="news-links list-unstyled" style="padding-left: 0; margin-left: 0px;">

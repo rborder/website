@@ -1,8 +1,10 @@
 ---
-title: "borderlab launches ground breaking website"
-date: 2024-10-19T15:47:38-07:00
+title: "borderlab website launched"
+date: 2024-10-19T12:47:38-07:00
 draft: false
-author: richard
+author: "richard"
+layout: "news-item"
+news: true
 ---
 
 

@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-19T16:22:13-07:00</lastmod>
+    <lastmod>2024-10-19T15:47:38-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/news/join-us/</loc>
-    <lastmod>2024-10-19T16:22:13-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/news/</loc>
-    <lastmod>2024-10-19T16:22:13-07:00</lastmod>
+    <loc>http://localhost:1313/join/</loc>
+    <lastmod>2024-10-19T15:47:38-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news/website-launch/</loc>
-    <lastmod>2024-10-19T15:47:38-07:00</lastmod>
+    <lastmod>2024-10-19T12:47:38-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-10-19T12:47:38-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>

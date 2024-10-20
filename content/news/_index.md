@@ -1,4 +1,4 @@
 +++
 title = "news"
-showNews = "news-list"
+layout = "news-list"
 +++

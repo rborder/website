@@ -1,5 +1,5 @@
 baseURL = 'https://richardborder.com/'
-title = 'borderlab @ CMU'
+title = 'border.lab @ CMU'
 disableKinds = ["taxonomy", "term"]
 
 [params]
@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "term"]
   favicon = "/favicon.ico"  # path to a .ico to use as favicon
   logo = "/partial_only.svg"  # url or path to a logo to put in the header
   [params.footer]
-    text = ""
+    text = "copyright richard border 2024"
     url = ""
   [params.style]  # appearance options (can be omitted)
     # fontFamily = "DejaVu Sans"
@@ -60,10 +60,13 @@ disableKinds = ["taxonomy", "term"]
     url = "/people"
     weight = 3
    [[menu.main]]
-    name = "contact"
-    url = "mailto:border.richard@gmail.com"
+    name = "join"
+    url = "/join"
     weight = 4
-
+   [[menu.main]]
+    name = "contact"
+    url = "/join"
+    weight = 5
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files

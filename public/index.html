@@ -16,17 +16,17 @@
     
     <link rel="stylesheet" href="/sass/main.min.css">
     <link rel="icon" type="image/ico" href="http://localhost:1313/favicon.ico">
-    <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="borderlab @ CMU" />
+    <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="border.lab @ CMU" />
     </head>
 
     <body>
 <div class="container mt-5">
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand  mr-sm-auto" href="http://localhost:1313/" title="borderlab @ CMU">
+        <a class="navbar-brand  mr-sm-auto" href="http://localhost:1313/" title="border.lab @ CMU">
           
-            <img width="20" src="http://localhost:1313/partial_only.svg" alt="logo">
+            <img width="26" src="http://localhost:1313/partial_only.svg" alt="logo">
           
-          borderlab @ CMU
+          border.lab @ CMU
         </a>
         <div class="navbar-nav flex-row flex-wrap justify-content-center">
             
@@ -53,7 +53,14 @@
                         <span class="nav-item navbar-text mx-1">/</span>
                     
                 
-                    <a class="nav-item nav-link" href="mailto:border.richard@gmail.com" title="contact">
+                    <a class="nav-item nav-link" href="/join" title="join">
+                        join
+                    </a>
+                    
+                        <span class="nav-item navbar-text mx-1">/</span>
+                    
+                
+                    <a class="nav-item nav-link" href="/join" title="contact">
                         contact
                     </a>
                     
@@ -69,7 +76,111 @@
          alt="haunting image of my face"/>
 </figure>
  -->
-<p>I am an assistant professor in the Department of Computational Biology at the Carnegie Mellon University School of Computer Science. I study problems at the intersections of human genetics, statistics, quantitative psychology, and applied mathematics. My primary research interests include:</p>
+<h3 id="statistical-genetics-and-metascience">Statistical genetics and metascience</h3>
+
+
+<style type="text/css">
+    .box-shortcode {
+      padding: .5em;
+      padding-left: 1em;
+      padding-: 1em;
+      line-height: 1.4em;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      border-radius: 4px;
+      color: #444;
+      background: #f3ebe850;
+    }
+
+    .box-title {
+      margin: -18px -18px 12px;
+      padding: 4px 18px;
+      border-radius: 4px 4px 0 0;
+      font-weight: 700;
+      color: #fff;
+      background: #6ab0de;
+    }
+    .box-shortcode.warning .box-title {
+      background: #ff6b6b;
+    }
+    .box-shortcode.warning {
+      background: warning;
+    }
+    .box-shortcode.info .box-title {
+      background: #0089e488;
+    }
+    .box-shortcode.info {
+      background: #0089e41c;
+      box-shadow: 3px 3px 5px #0089e410;
+    }
+    .box-shortcode.important .box-title {
+      background: #f7ec2c;
+    }
+    .box-shortcode.important {
+      background: #f7ec2c7d;
+    }
+    .box-shortcode.tip .box-title {
+      background: #a3ffa34d;
+    }
+    .box-shortcode.tip {
+      background: #a3ffa34d;
+      box-shadow: 3px 3px 5px #0089e410;
+    }
+    .icon-box {
+      display: inline-flex;
+      align-self: center;
+      margin-right: 8px;
+    }
+    .icon-box img,
+    .icon-box svg {
+      height: 1em;
+      width: 1em;
+      fill: currentColor;
+    }
+    .icon-box img,
+    .icon-box.baseline svg {
+      top: 0.125em;
+      position: relative;
+    }
+    .box-shortcode p {
+      margin-bottom: 0.6em;
+    }
+    .box-shortcode p:first-of-type {
+      display: inline;
+    }
+    .box-shortcode p:nth-of-type(2) {
+      margin-top: 0.6em;
+    }
+    .box-shortcode p:last-child {
+      margin-bottom: 0;
+    }
+  </style>
+
+  
+  <svg width="0" height="0" display="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="tip-box" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
+      <path
+        d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"/>
+    </symbol>
+    <symbol id="important-box" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
+      <path
+        d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zm-248 50c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"/>
+    </symbol>
+    <symbol id="warning-box" viewBox="0 0 576 512" preserveAspectRatio="xMidYMid meet">
+      <path
+        d="M569.517 440.013C587.975 472.007 564.806 512 527.94 512H48.054c-36.937 0-59.999-40.055-41.577-71.987L246.423 23.985c18.467-32.009 64.72-31.951 83.154 0l239.94 416.028zM288 354c-25.405 0-46 20.595-46 46s20.595 46 46 46 46-20.595 46-46-20.595-46-46-46zm-43.673-165.346l7.418 136c.347 6.364 5.609 11.346 11.982 11.346h48.546c6.373 0 11.635-4.982 11.982-11.346l7.418-136c.375-6.874-5.098-12.654-11.982-12.654h-63.383c-6.884 0-12.356 5.78-11.981 12.654z"/>
+    </symbol>
+    <symbol id="info-box" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet">
+      <path
+        d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z"/>
+    </symbol>
+  </svg><div class="box box-shortcode warning" >
+
+    <p><strong><a href="/join/">We are looking for postdoctoral researchers, Ph.D. students, and undergraduate research interns!</a></strong></p>
+  </div>
+
+<h4 id="coming-january-2025">Coming January 2025&hellip;</h4>
+<p>Richard Border is starting as an assistant professor in the Department of Computational Biology at the Carnegie Mellon University School of Computer Science starting his lab in <strong>January 2025</strong>. He studies problems at the intersections of human genetics, statistics, quantitative psychology, and applied mathematics (unfortunately, he writes in the third person). His primary research interests include:</p>
 <ol>
 <li>
 <p>Nonrandom mating and other forms of population structure, particularly how they impact inference about genetic architecture</p>
@@ -95,21 +206,8 @@
             <ul class="news-links list-unstyled" style="padding-left: 0; margin-left: 0px;">
                 <li>
                  <span class="news-date">2024-10-19</span>
-        <a href="http://localhost:1313/news/join-us/" target="_blank" style="text-decoration: none; color: inherit;">
-                  <span class="news-title">Join Us</span>
-                </li>
-            </ul>
-        </div>
-        </a>
-    </div>
-    
-    <div class="d-flex align-items-center" style="margin: 0px; width: 100%;">
-        <div class="article fixed-width-container" style="padding:0; width: 100%;">
-            <ul class="news-links list-unstyled" style="padding-left: 0; margin-left: 0px;">
-                <li>
-                 <span class="news-date">2024-10-19</span>
         <a href="http://localhost:1313/news/website-launch/" target="_blank" style="text-decoration: none; color: inherit;">
-                  <span class="news-title">borderlab launches ground breaking website</span>
+                  <span class="news-title">borderlab website launched</span>
                 </li>
             </ul>
         </div>
@@ -124,7 +222,7 @@
     
     
         <div class="container text-center">
-            <a href="http://localhost:1313/" title="" ><small></small></a>
+            <a href="http://localhost:1313/" title="copyright richard border 2024" ><small>copyright richard border 2024</small></a>
         </div>
     
 </div></body>
