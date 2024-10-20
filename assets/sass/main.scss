@@ -245,7 +245,7 @@ $title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
 
 // People page container
 .people.container {
-  padding: 40px;
+  padding: 30px;
   text-align: center;
   max-width: $max-width;
   margin: 0 auto;
@@ -256,12 +256,12 @@ $title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 30px;
+  gap: 20px;
 }
 
 // Individual person styling
 .person {
-  width: 300px;
+  width: 240px;
   text-align: center;
   // background-color: #f9f9f9;
   // border: 1px solid #e1e1e1;
@@ -278,8 +278,8 @@ $title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
 
 // Person icon (circular image)
 .person-icon {
-  width: 150px;
-  height: 150px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 15px;
@@ -287,13 +287,13 @@ $title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
 
 // Person name styling
 .person-name {
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: 600;
   color: $black;
   margin-bottom: 10px;
 }
 .person-position {
-  font-size: 1em;
+  font-size: .9em;
   font-weight: 400;
   color: $black;
   margin-bottom: 10px;
@@ -317,9 +317,10 @@ $title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
   margin: 0 auto;
 
   .article {
-    padding: 0;
+    padding: 100px;
     margin: 0 0 5px 0; // Set top and side margins to 0, keep a small bottom margin
-    border: 1px solid #e1e1e1;
+    background: #f3ebe850;   
+    // border: 1px solid #e1e1e1;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
 
@@ -332,6 +333,7 @@ $title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
   ul.article-links {
     padding: 0; // Remove default padding from the list
     margin: 5px; // Remove any margin from the list
+    margin-right: 10px; // Remove any margin from the list
   }
 
   li {
@@ -382,4 +384,27 @@ $title-offset: {{ .Param "style.titleOffset" | default "5px;" }};
 
 //////////////////////////////// NEWS /////////////////////////////////
 
-
+  .news-title {
+    font-size: 1em;
+    font-weight: 300;
+    color: $black;
+    // font-style: italic;
+    padding-bottom: 0px;
+    padding-left: 20px;
+  }
+  .news-date {
+    font-size: 1em;
+    font-weight: 300;
+    color: $black;
+    // font-style: italic;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
+  .news-links {
+    font-size: 1em;
+    font-weight: 300;
+    color: $black;
+    // font-style: italic;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+  }

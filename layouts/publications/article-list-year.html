@@ -4,10 +4,9 @@
         {{ .Content }}
     </div>
 </div>
+
 <div class="article-list mt-2 ">
 <!-- <h3 style="margin-left: 15%;"> Publications </h2> -->
-    <br>
-<em>preprints / manuscripts in preparation</em> 
     {{ $firstPreprint := true }}
     {{ range sort .Site.Data.publications "class" "asc" }}
       {{ if eq .class "preprint" }}
@@ -15,7 +14,7 @@
       <div class="d-flex align-items-center" style="margin: 5px; width: 100%;">
           <div class="fixed-width-container" style="width: 12%; text-align: right; padding-right: 10px;">
               {{ if $firstPreprint }}
-              <!-- <span class="article-year"> in prep. </span> -->
+              <span class="article-year"> in prep. </span>
               {{ $firstPreprint = false }}
               {{ end }}
           </div>
@@ -37,16 +36,14 @@
       </div>
       {{ end }}
     {{ end }}
-    <br>
-<em>peer-reviewed publications</em> 
-    {{ $firstPublication := true }}
+    {{ $firstYear := "" }}
     {{ range sort .Site.Data.publications "year" "desc" }}
       {{ if ne .class "preprint" }}
       <div class="d-flex align-items-center" style="margin: 5px; width: 100%;">
           <div class="fixed-width-container" style="width: 12%; text-align: right; padding-right: 10px;">
-              {{ if $firstPublication }}
-              <!-- <span class="article-year"> published </span> -->
-              {{ $firstPublication = false }}
+              {{ if ne $firstYear .year }}
+              <span class="article-year"> {{ .year }} </span>
+              {{ $firstYear = .year }}
               {{ end }}
           </div>
           <a href="https://doi.org/{{ .doi }}">
@@ -55,10 +52,10 @@
                   <li>
                 <span class="article-authors"> 
 
-                      {{ .authors | markdownify }} ({{ .year }}).
+                      {{ .authors | markdownify }}.
                     </span>
                          <span class="article-title"> {{ .title }}. </span>
-                         <a href="https://doi.org/{{ .doi }}" target="_blank"><em>{{ .journal }}</em>.</a>
+                         <a href="https://doi.org/{{ .doi }}" target="_blank">{{ .doi }}</a>
                   </li>
               </ul>
           </div>

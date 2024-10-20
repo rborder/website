@@ -1,3 +1,9 @@
+- title: "Simple models of non-random mating and environmental transmission bias standard human genetics statistical methods"
+  authors: "**Border, R.**, Wang, J., Caggiano, C., Sankararaman, S., Schork, A.J., Turley, P., Young, A.S., Benjamin,  D.J., Dahl, A.W., Zaitlen, N."
+  doi: "10.1101/2024.10.16.618755"
+  class: "preprint"
+  year: "2024"
+
 - authors: "Fu, B., ..., **Border, R.**, ..., Sankararaman, S."
   title: "A biobank-scale test of marginal epistasis reveals genome-wide signals of polygenic epistasis"
   doi: "10.1101/2023.09.10.557084"
@@ -7,7 +13,6 @@
   We present a method to test for ME of a SNP on a trait that is applicable to biobank-scale data. We performed extensive simulations to show that our method provides calibrated tests of ME. We applied our method to test for ME at SNPs that are associated with 53 quantitative traits across ≈ 300 K unrelated white British individuals in the UK Biobank (UKBB). Testing 15, 601 trait-loci associations that were significant in GWAS, we identified 16 trait-loci pairs across 12 traits that demonstrate strong evidence of ME signals (p-value $p<\\frac{5\times10^{-8}}{53}). We further partitioned the significant ME signals across the genome to identify 6 trait-loci pairs with evidence of local (within-chromosome) ME while 15 show evidence of distal (cross-chromosome) ME. Across the 16 trait-loci pairs, we document that the proportion of trait variance explained by ME is about 12x as large as that explained by the GWAS effects on average (range: 0.59 to 43.89). Our results show, for the first time, evidence of interaction effects between individual genetic variants and overall polygenic background modulating complex trait variation."
   class: "preprint"
   year: "2024"
-
 
 - authors: "Medford, J., ..., **Border, R.**, ..., Zaitlen, N."
   title: "Beyond predictive R-squared: Complex relationships between traits and their corresponding polygenic scores are revealed using non-equivalence tests of quantile-specific linear models"
@@ -51,6 +56,13 @@
   doi: "10.1101/2023.09.14.23295564"
   class: "preprint"
   year: "2024"
+
+- authors: "Romero Villela, P.N., Evans, L.M., Palviainen, T., Border, R., Kaprio, J., Palmer, R.H.C., Keller, M.C., Ehringer, M.A."
+  title: "Loci on chromosome 20 interact with rs16969968 to influence cigarettes per day in European ancestry individuals"
+  doi: "10.1016/j.drugalcdep.2024.111126"
+  journal: "Drug and Alcohol Dependence"
+  year: "2024"
+  class: "publication"
 
 - authors: "Dahl, A., ..., **Border, R.**, ..., Cai, N."
   title: "Phenotype integration improves power and preserves specificity in biobank-based genetic studies of major depressive disorder"

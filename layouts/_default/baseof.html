@@ -10,7 +10,7 @@
         {{- block "main" . }}{{- end }}
         {{ if (.Params.showNews) }}
         <div class="container">
-            <div class="fixed-width-containerfixed-width-container" style="width: 90%; margin-left: 5%; margin-right: 5%;">
+            <div class="fixed-width-container" style="width: 100%; margin-left: 0%; margin-right: 0%;">
                 {{- partial "partial-news-list.html" . -}}
         </div>
         {{ end }}

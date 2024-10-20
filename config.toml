@@ -12,7 +12,10 @@ disableKinds = ["taxonomy", "term"]
     url = ""
   [params.style]  # appearance options (can be omitted)
     # fontFamily = "DejaVu Sans"
-    fontFamily = "Inconsolata"
+    # fontFamily = "Inconsolata"
+    fontFamily = "Fira Sans"
+    # fontFamily = "Fira Sans"
+    
     # fontFamily = "Open Sans"
     fontSize = "12pt"
     pageWidth = "700px"
