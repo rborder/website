@@ -77,6 +77,13 @@ $y-medium: 1.0rem;
             font-size: 1.2rem + 0.2 * (4 - $i);
         }
     }
+    @for $i from 1 through 4 {
+        h#{$i} > a {
+        font-size: inherit;
+        font-weight: inherit;
+        margin: inherit;
+        }
+    }
     img {
         ///display: block;
         //margin: $y-medium auto;
