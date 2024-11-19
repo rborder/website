@@ -16,8 +16,6 @@ I am an assistant professor in the Department of Computational Biology at the Ca
 
 * **Border, R.**, Wang, J., Caggiano, C., Sankararaman, S., Schork, A.J., Turley, P., Young, A.S., Benjamin, D.J., Dahl, A.W., Zaitlen, N.. "Simple models of non-random mating and environmental transmission bias standard human genetics statistical methods". [doi.org/10.1101/2024.10.16.618755](https://doi.org/10.1101/2024.10.16.618755)
 
-* Ma, S., Wang, F., **Border, R.**, Buxbaum, J., Zaitlen, N., Ionita-Laza, I.. "Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating". 
-
 * Fu, B., ..., **Border, R.**, ..., Sankararaman, S.. “A biobank-scale test of marginal epistasis reveals genome-wide signals of polygenic epistasis". [doi.org/10.1101/2023.09.10.557084](https://doi.org/110.1101/2023.09.10.557084)
 
 * Krebs, K.D., ..., **Border, R.**, ..., Schork, A.J.. “The relationship between genotype- and phenotype-based estimates of genetic liability to psychiatric disorders, in practice and in theory.” Out for review at the *American Journal of Human Genetics*.
@@ -26,12 +24,15 @@ I am an assistant professor in the Department of Computational Biology at the Ca
 
 * Sadowski, M., ..., **Border, R.**, ..., Zaitlen, N.. “Genetics modulates the impact of widely-used drugs on outcomes and side effects.” *Invited for resubmission* at *Cell Genomics*. [doi.org/10.1101/2024.03.29.24305093](https://doi.org/10.1101/2024.03.29.24305093)
 
-* Tan, T., ..., **Border, R.**, ..., Young, S.. “Family-GWAS reveals effects of environment and mating on genetic associations.” *Out for review* at *Nature*. [doi.org/10.1101/2024.10.01.24314703](https://doi.org/10.1101/2024.10.01.24314703)
+* Tan, T., ..., **Border, R.**, ..., Young, S.. “Family-GWAS reveals effects of environment and mating on genetic associations.” *Invited for resubmission* at *Nature*. [doi.org/10.1101/2024.10.01.24314703](https://doi.org/10.1101/2024.10.01.24314703)
 
 * Wei, A., **Border, R.**, ..., Arboleda, V.. “The genetic underpinnings of variable penetrance and expressivity of pathogenic mutations in cardiometabolic traits.” *Invited for resubmission* at *Nature Communications*. [doi.org/10.1101/2023.09.14.23295564](https://doi.org/10.1101/2023.09.14.23295564)
 
 ## Peer-reviewed publications
-* Krebs, K.D., ..., **Border, R.**, ..., Schork, A.J. (2024). “PA-FGRS is a novel estimator of pedigree-based genetic liability that complements genotype-based inferences into the genetic architecture of major depressive disorder.” Accepted in principle at the *American Journal of Human Genetics*.
+
+* Ma, S., Wang, F., **Border, R.**, Buxbaum, J., Zaitlen, N., Ionita-Laza, I.. "Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating". [*The American Journal of Human Genetics*](https://doi.org/10.1016/j.ajhg.2024.10.012)
+
+* Krebs, K.D., ..., **Border, R.**, ..., Schork, A.J. (2024). “PA-FGRS is a novel estimator of pedigree-based genetic liability that complements genotype-based inferences into the genetic architecture of major depressive disorder.” [*The American Journal of Human Genetics*](https://doi.org/10.1016/j.ajhg.2024.09.009)
 
 * Dahl, A., ..., **Border, R.**, ..., Cai, N. (2023). “Phenotype integration improves power and preserves specificity in biobank-based genetic studies of major depressive disorder.” [*Nature Genetics*](https://doi.org/10.1038/s41588-023-01559-9).
  <!-- [<i class="fa-regular fa-file-lines"></i>](/reprints/border_et_al_AJP_2019.pdf)  *In press* at *Nature Genetics*. Preprint available from [*bioRꭓiv*](https://doi.org/10.1101/2022.08.15.503980).<i class="fa-brands fa-r-project"></i> -->
