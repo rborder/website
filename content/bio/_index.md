@@ -26,6 +26,8 @@ I am an assistant professor in the Department of Computational Biology at the Ca
 
 * Tan, T., ..., **Border, R.**, ..., Young, S.. “Family-GWAS reveals effects of environment and mating on genetic associations.” *Invited for resubmission* at *Nature*. [doi.org/10.1101/2024.10.01.24314703](https://doi.org/10.1101/2024.10.01.24314703)
 
+* Van der Laan, C.M., ..., **Border, R.**, ..., Boomsma, D.I.. “Meta-analysis of genome wide association studies on childhood ADHD symptoms and diagnosis reveals 17 novel loci and 22 potential effector genes.” *Invited for resubmission* at *Nature Genetics*. [doi.org/10.1101/2024.04.17.24305817](https://doi.org/10.1101/2024.04.17.24305817)
+
 * Wei, A., **Border, R.**, ..., Arboleda, V.. “The genetic underpinnings of variable penetrance and expressivity of pathogenic mutations in cardiometabolic traits.” *Invited for resubmission* at *Nature Communications*. [doi.org/10.1101/2023.09.14.23295564](https://doi.org/10.1101/2023.09.14.23295564)
 
 ## Peer-reviewed publications
