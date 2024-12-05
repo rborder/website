@@ -22,8 +22,6 @@ I am an assistant professor in the Department of Computational Biology at the Ca
 
 * Medford, J., ..., **Border, R.**, ..., Zaitlen, N.. “Beyond predictive R-squared: Complex relationships between traits and their corresponding polygenic scores are revealed using non-equivalence tests of quantile-specific linear models.” *Invited for resubmission* at the *American Journal of Human Genetics*.
 
-* Sadowski, M., ..., **Border, R.**, ..., Zaitlen, N.. “Genetics modulates the impact of widely-used drugs on outcomes and side effects.” *Invited for resubmission* at *Cell Genomics*. [doi.org/10.1101/2024.03.29.24305093](https://doi.org/10.1101/2024.03.29.24305093)
-
 * Tan, T., ..., **Border, R.**, ..., Young, S.. “Family-GWAS reveals effects of environment and mating on genetic associations.” *Invited for resubmission* at *Nature*. [doi.org/10.1101/2024.10.01.24314703](https://doi.org/10.1101/2024.10.01.24314703)
 
 * Van der Laan, C.M., ..., **Border, R.**, ..., Boomsma, D.I.. “Meta-analysis of genome wide association studies on childhood ADHD symptoms and diagnosis reveals 17 novel loci and 22 potential effector genes.” *Invited for resubmission* at *Nature Genetics*. [doi.org/10.1101/2024.04.17.24305817](https://doi.org/10.1101/2024.04.17.24305817)
@@ -31,6 +29,8 @@ I am an assistant professor in the Department of Computational Biology at the Ca
 * Wei, A., **Border, R.**, ..., Arboleda, V.. “The genetic underpinnings of variable penetrance and expressivity of pathogenic mutations in cardiometabolic traits.” *Invited for resubmission* at *Nature Communications*. [doi.org/10.1101/2023.09.14.23295564](https://doi.org/10.1101/2023.09.14.23295564)
 
 ## Peer-reviewed publications
+
+* Sadowski, M., ..., **Border, R.**, ..., Zaitlen, N.. “Characterizing the genetic architecture of drug response using gene-context interaction methods.” *Cell Genomics*. [doi.org/10.1016/j.xgen.2024.100722](https://doi.org/10.1016/j.xgen.2024.100722)
 
 * Ma, S., Wang, F., **Border, R.**, Buxbaum, J., Zaitlen, N., Ionita-Laza, I.. "Local genetic correlation via knockoffs reduces confounding due to cross-trait assortative mating". [*The American Journal of Human Genetics*](https://doi.org/10.1016/j.ajhg.2024.10.012)
 
